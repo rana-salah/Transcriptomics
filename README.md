@@ -72,7 +72,8 @@ Results:
 Around 63% of the reads have been assigned to genes: this quantity is good enough.If the percentage falls below 50%, you should investigate where your reads are mapping (inside genes or not, with IGV) and then check that the annotation corresponds to the correct reference genome version.
 
 <h2> TEAM CONTRIBUTORS </h2>
-<td>**Mapping**
+<table>
+ <td>**Mapping**
 
    </td>
    <td>Yasmin, Dawoud, saket, bandana, nirvana, johny, favour, Ankita, Eman
@@ -120,6 +121,6 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
    <td>Eman, Yasmein, Dawoud
 
    </td>
-
+</table>
 
 
