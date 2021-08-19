@@ -39,7 +39,7 @@ GSM461180
     
 ## 3. Further Inspection on IGV
 
-   ![alt_text](output/6.png/Display on local IGV)
+   ![alt_text](output/6.png "Display on local IGV")
     
 
    ![alt_text](output/7.png/"Zoom onto Chr4 loci on IGV")
