@@ -64,26 +64,34 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
 ## 3. Further Inspection on IGV (mouse over for description)
 
 *Display on local IGV*
-  
-<h3 align="center">
- 
- ![alt_text](output/7.png "Display on local IGV")
 
- </h3>
-
-*Zoom onto Chr4 loci on IGV*
-  
 <h3 align="center">
- 
-    
- ![alt_text](output/6.png "Zoom onto Chr4 loci on IGV")
- 
- 
+
+<img src="https://user-images.githubusercontent.com/71490918/130114580-8d34a23c-7255-43e7-9267-694c9ebc85f6.png" width=75% height=75%>
+
 </h3>
 
+*Zoom onto Chr4 loci on IGV*
+
 <h3 align="center">
+
+<img src="https://user-images.githubusercontent.com/71490918/130115430-f2160aa2-9dbb-4aa5-b0a5-33e19f84a301.png" width=75% height=75%>
+
+</h3>
  
- ![alt_text](output/8.png "IGV panel")
+*IGV panel*
+
+<h3 align="center">
+
+<img src="https://user-images.githubusercontent.com/71490918/130114757-5d77f6a7-1871-4b48-9dc1-c695bab41361.png" width=75% height=75%>
+
+</h3>
+ 
+*Sashimi plot*
+
+<h3 align="center">
+
+<img src="https://user-images.githubusercontent.com/71490918/130115294-ad7ad1c1-d9bb-4c25-b5c7-7d512183c18e.png" width=75% height=75%>
 
 </h3>
     
