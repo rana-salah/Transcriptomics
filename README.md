@@ -75,7 +75,9 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
   
 <h3 align="center">
  
-    ![alt_text](output/6.png "Zoom onto Chr4 loci on IGV")
+    
+ ![alt_text](output/6.png "Zoom onto Chr4 loci on IGV")
+ 
  
 </h3>
 
