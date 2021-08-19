@@ -15,6 +15,5 @@
 Enjoy!🌟 
 
 ## Our Workflow
-
- <img src="paste the image path here" width="500" height="250">
+<img src="paste the image path here" width="500" height="250">
 
