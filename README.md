@@ -32,3 +32,5 @@ goseq generates with these parameters 3 outputs. A table (Ranked category list -
     - "ntology: MF (Molecular Function - molecular activities of gene products), CC (Cellular Component - where gene products are active), BP (Biological Process - pathways and larger processes made up of the activities of multiple gene products)"
     - "p.adjust.over_represented: p-value for over-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg procedure"
     - "p.adjust.under_represented: p-value for under-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg procedure"
+![GO_RANK 1](https://user-images.githubusercontent.com/88287437/130142391-1d2631b5-dc3f-48ee-aa7e-3351c208876c.PNG)
+
