@@ -100,7 +100,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   </tr>
   <tr>
    <td>
-     <h4>Counting reads per genes</h4>
+     <td>Counting reads per genes</td>
 
 
    </td>
