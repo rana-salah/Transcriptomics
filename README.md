@@ -19,15 +19,15 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     - “Length of the genomic sequence around annotated junctions”: 36
     - This parameter should be length of reads - 1 (read length of fastq file was 37 so we put 36)
     
-    ![alt_text](output/1.png) 
+    ![alt_text](output/1.jpg) 
     
  MultiQC: to aggregate the STAR logs
  
-    ![alt_text](output/2.png)
+    ![alt_text](output/2.jpg)
     
  Results
  
-    ![alt_text](output/3.png)
+    ![alt_text](output/3.jpg)
     
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
