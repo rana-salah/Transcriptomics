@@ -18,8 +18,10 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     - “Gene model (gff3,gtf) file for splice junctions”: the imported _Drosophila_melanogaster.BDGP6.87.gtf_
     - “Length of the genomic sequence around annotated junctions”: 36
     - This parameter should be length of reads - 1 (read length of fastq file was 37 so we put 36)
-    
+      
+ <h3 align="center">
    ![alt_text](output/1.jpg) 
+ </h3>
     
  MultiQC: to aggregate the STAR logs
  
