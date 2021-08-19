@@ -1,10 +1,7 @@
 # Transcriptomics
 
-`
-
 # Mapping
 
-`
 ***
 ## 1. Alignment step
 
