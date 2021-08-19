@@ -13,3 +13,5 @@
   :man_scientist: :woman_scientist: We are research enthusiasts from diverse backgrounds in life sciences:scientist: :man_scientist:  .In our lab we study transcriptome to provide insight into how genes work:microbe: . This ReadMe provides complete analysis of an RNA-seq experiment profiling Drosophila cells after the depletion of a regulatory gene called Pasilla (Ps).
 
 Enjoy!🌟 
+
+## Our Workflow
