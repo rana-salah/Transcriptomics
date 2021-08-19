@@ -2,9 +2,8 @@
 
 # Mapping 
 ***
-<h3 align="center">
 ## 1. Alignment step
-</h3>
+
 
 > We need to first figure out where the sequences originated from in the genome, so we can then determine to which genes they belong. \
 > When a reference genome for the organism is available, this process is known as **aligning** or **“mapping”** the reads to the reference. 
@@ -29,11 +28,14 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     
  MultiQC: to aggregate the STAR logs
  
-   ![alt_text](output/2.png)
+ <h3 align="center">
+ ![alt_text](output/2.png)
+ </h3>
     
  Results
- 
-   ![alt_text](output/3.png)
+ <h3 align="center">
+ ![alt_text](output/3.png)
+ </h3>
     
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
