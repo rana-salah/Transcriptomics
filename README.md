@@ -1,12 +1,17 @@
+<h1 align="center"> Quality Control </h1>
+
 # Preparing the reads
 ## Import data from URLs
 
 - Read sequences are usually stored in compressed (gzipped) FASTQ files.The raw reads used in this tutorial were obtained from zenodo library from the link mentioned in the image below:
 
 
+<h1 align="center"> 
+  
 ![data1](https://user-images.githubusercontent.com/57266535/130147539-53ee007c-000f-4431-9f98-624d21b70faa.png)
+</h1>
 
-The reads are raw data from the sequencing machine without any pretreatments. They need to be assessed for their quality.
+- The reads are raw data from the sequencing machine without any pretreatments. They need to be assessed for their quality.
 
 1)	Quality control
 
@@ -25,8 +30,10 @@ a.)
 
 Note: One can select multiple datasets to run multiple files simultaneously.
 
-
+<h1 align="center"> 
+  
 ![data2](https://user-images.githubusercontent.com/57266535/130148312-ba648c91-1b63-4e58-bc02-37a4b610a474.png)
+</h1>
 
 b.)
 
@@ -36,8 +43,10 @@ b.)
 |  Steps | Go to NGS: QC and manipulation / Select MultiQC / Select FastQC Raw datas / Press Execute.|
 |  Input file| FastQC Raw Data |
 
+<h1 align="center"> 
+  
 ![data3](https://user-images.githubusercontent.com/57266535/130148318-178028ff-fe6b-48f2-bad6-5f4faac486aa.png)
-
+</h1>
 c.)
 
 | **Cutadapt** | Description |
@@ -50,7 +59,10 @@ c.)
 |--------| e.) In Output option “Report = Yes”|
 |  Input file| FastQC file |
 
+<h1 align="center"> 
+   
 ![data5](https://user-images.githubusercontent.com/57266535/130148319-2c116dea-c09a-492c-971f-67c6b6d1ff00.png)
+</h1>
 
 ## Results: 
 
@@ -58,7 +70,10 @@ c.)
 
 **2.) Cutadapt:** For GSM461177 5,072,810 forward reads and 8,648,619 bp of reverse reads have been removed due to quality. GSM461180 has a forward bandwidth of 10,224,537 bps and a reverse bandwidth of 51,746,850  bps.: At the conclusion of the reads, the quality of the reverse reads dropped more than the forward reads, especially for GSM461180.For GSM461177, 147,810 (2.4%) readings were too short, whereas 1101875 (12.4%) were too short for GSM461180.
 
+<h1 align="center">   
+
 ![data-6](https://user-images.githubusercontent.com/57266535/130150826-e4c48041-8327-47df-a3f8-0a071a2bccf2.png)
 
-![data6](https://user-images.githubusercontent.com/57266535/130151585-ca160e16-b6d3-4bfa-9c8d-ea4d579e6f7f.png)
-![data-6](https://user-images.githubusercontent.com/57266535/130151414-7c225bbe-008c-4dcd-90f8-32dfa5a4abe3.png)
+![data6](https://user-images.githubusercontent.com/57266535/130153144-3aac5182-a5c5-4dff-8ca2-4644542d84c7.png)
+![data-6](https://user-images.githubusercontent.com/57266535/130153081-61cfa7c7-43ac-480e-ad01-299541ae3c8c.png)
+</h1>
