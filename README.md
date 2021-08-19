@@ -39,35 +39,35 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     
 ## 3. Further Inspection on IGV (mouse over for description)
 
-   ![alt_text](output/6.png "Display on local IGV")
+   ![alt_text](output/6.png "Zoom onto Chr4 loci on IGV")
     
 
-   ![alt_text](output/7.png "Zoom onto Chr4 loci on IGV")
+   ![alt_text](output/7.png "Display on local IGV")
 
    ![alt_text](output/8.png "IGV panel")
     
 ## 4.Counting the number of reads per annotated gene
 Estimation of the strandness:
 First, we used Convert GTF to BED12 Tool: to convert the GTF file to BED
-   ![alt_text](output/9.png)
+   ![alt_text](output/15.png)
     
 Then Infer Experiment Tool: to determine the library strandness:
-    ![alt_text](output/10.png)
+    ![alt_text](output/16.png)
     
 Results: 
-    ![alt_text](output/11.png)
+    ![alt_text](output/17.png)
     
 Since the two “Fractions of reads explained by” the numbers are close to each other or nearly equal, we conclude that the library is not a ```strand-specific dataset (unstranded).```
 ## 5. Counting reads per genes;
 ```FeatureCounts Tool:``` was used to count the number of reads per gene
 The input files are the mapped bam files and also the annotation file which is the Drosophilla melanongaster .gtf file.
-    ![alt_text](output/12.png)
+    ![alt_text](output/18.png)
     
  ```MultiQC Tool:``` was used to aggregate the report
   
-   ![alt_text](output/13.png)
+   ![alt_text](output/19.png)
 Results:
-    ![alt_text](output/14.png)
+    ![alt_text](output/20.png)
     
 Around 63% of the reads have been assigned to genes: this quantity is good enough.If the percentage falls below 50%, you should investigate where your reads are mapping (inside genes or not, with IGV) and then check that the annotation corresponds to the correct reference genome version.
 
