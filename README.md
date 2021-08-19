@@ -14,3 +14,7 @@ To begin the analysis, goseq was used to quantify the length bias present in the
 consideration. This is done by calculating a Probability Weighting Function or PWF which can
 be thought of as a function which gives the probability that a gene will be differentially expressed
 (DE)based on the lenght alone. We obtain a weight for each gene, depending on its length, given by the PWF.
+
+The input files is the differentially expressed genes from all genes assayed in the RNA-Seq experiment
+   - "the Gene IDs (unique within the file), in uppercase letters"
+    - "a boolean indicating whether the gene is differentially expressed or not (True if differentially expressed or False if not)"
