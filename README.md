@@ -54,7 +54,8 @@ inputs include
 
 Results:
 
-Pathview generates a collection with the KEGG visualization: one file per pathway.The colored boxes are genes in the pathway that are differentially expressed 
+```pathview``` generates a collection with the KEGG visualization: one file per pathway.The colored boxes are genes in the pathway that are differentially expressed 
+
     - "green is for value below 0, it means for genes with a log2FC < 0"
     - "red for genes with a log2FC > 0"
 
@@ -62,10 +63,11 @@ Pathview generates a collection with the KEGG visualization: one file per pathwa
 
 ![Galaxy37--Pathview_on_data_35__KEGG_Pathways__dme03040- 1](https://user-images.githubusercontent.com/88287437/130145880-13195cfb-6e5d-444b-9dc7-0c7bce2b8188.png)
 
-# Contributors
+<h2> Team Contributors <h2>
+<table>
+<tr>
+<td><GO analysis></
 
- ## 1.Akinola Tosin- TosinA
- ## 2.amira Momodu - amira
 
 
 
