@@ -19,23 +19,23 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     - “Length of the genomic sequence around annotated junctions”: 36
     - This parameter should be length of reads - 1 (read length of fastq file was 37 so we put 36)
     
-    **[Insert image here]**
+    ![alt_text](output/1.png) 
     
  MultiQC: to aggregate the STAR logs
  
-    **[Insert image here]**
+    ![alt_text](output/2.png)
     
  Results
  
-    **[Insert image here]**
+    ![alt_text](output/3.png)
     
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
 GSM461177
-    **[Insert image here]**
+    ![alt_text](output/4.png)
     
 GSM461180
-    **[Insert image here]**
+    ![alt_text](output/5.png)
     
 ## 3. Further Inspection on IGV
 Display on local IGV
@@ -100,7 +100,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   </tr>
   <tr>
    <td>
-     <td>Counting reads per genes</td>
+     Counting reads per genes
 
 
    </td>
