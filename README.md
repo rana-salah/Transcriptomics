@@ -63,23 +63,23 @@ Results:
 
 ![Galaxy37--Pathview_on_data_35__KEGG_Pathways__dme03040- 1](https://user-images.githubusercontent.com/88287437/130145880-13195cfb-6e5d-444b-9dc7-0c7bce2b8188.png)
 
-<h2> Team Contributors <h2>
+<h2> TEAM CONTRIBUTORS </h2>
 <table>
-<tr>
-<td><GO analysis>
-</td>
-<td>Amira,Tosin,Shuruti, Bandana
-</td>
-</tr>
-<td>KEGG pathway Analysis
-</td>
-<td>Amira, Rana, Tosin, Chigozie
-</td>
-</tr>
-<tr>
-<td>Creation of ReadMe file For Team
-</td>
-<td>Tosin
+  <tr>
+    <td>GO analysis>
+    </td>
+    <td>Amira,Tosin,Shuruti, Bandana
+   </td>
+   <tr>
+    <td>KEGG pathway Analysis
+    </td>
+   <td>Amira, Rana, Tosin, Chigozie
+   </td>
+   </tr>
+     <tr>
+    <td>Creation of ReadMe file For Team
+    </td>
+    <td>Tosin
 
 
 
