@@ -20,4 +20,6 @@ The input files is the differentially expressed genes from all genes assayed in 
    - "the Gene IDs (unique within the file), in uppercase letters"
    - "a boolean indicating whether the gene is differentially expressed or not (True if differentially expressed or False if not)"
 
-https://drive.google.com/file
+![GO_5 1](https://user-images.githubusercontent.com/88287437/130139574-3d9e4341-a22d-4b74-8889-e9638bdf78fa.PNG)
+
+
