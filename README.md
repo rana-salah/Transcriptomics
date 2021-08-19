@@ -30,7 +30,7 @@
   </tr>
   <tr>
    <td>
-<h2>Counting reads per genes</h2>
+Counting reads per genes
 
 
    </td>
