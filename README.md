@@ -61,11 +61,11 @@ Since the two “Fractions of reads explained by” the numbers are close to eac
 ## 5. Counting reads per genes;
 ```FeatureCounts Tool:``` was used to count the number of reads per gene
 The input files are the mapped bam files and also the annotation file which is the Drosophilla melanongaster .gtf file.
-    ![alt_text](output/18.jpg)
+![alt_text](output/18.jpg)
     
  ```MultiQC Tool:``` was used to aggregate the report
   
-   ![alt_text](output/19.jpg)
+![alt_text](output/19.jpg)
 Results:
     ![alt_text](output/20.png)
     
