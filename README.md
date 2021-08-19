@@ -2,7 +2,9 @@
 
 # Mapping 
 ***
+<h3 align="center">
 ## 1. Alignment step
+</h3>
 
 > We need to first figure out where the sequences originated from in the genome, so we can then determine to which genes they belong. \
 > When a reference genome for the organism is available, this process is known as **aligning** or **“mapping”** the reads to the reference. 
