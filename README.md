@@ -15,5 +15,5 @@
 Enjoy!🌟 
 
 ## Our Workflow
-![image] (![Transcriptomics (1)](https://user-images.githubusercontent.com/88304342/130126297-f7d19a7f-f29d-428e-8f74-860ca070e947.png)
+ (![Transcriptomics (1)](https://user-images.githubusercontent.com/88304342/130126297-f7d19a7f-f29d-428e-8f74-860ca070e947.png)
 )
