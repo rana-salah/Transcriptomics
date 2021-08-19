@@ -77,3 +77,43 @@ c.)
 ![data6](https://user-images.githubusercontent.com/57266535/130153144-3aac5182-a5c5-4dff-8ca2-4644542d84c7.png)
 ![data-6](https://user-images.githubusercontent.com/57266535/130153081-61cfa7c7-43ac-480e-ad01-299541ae3c8c.png)
 </h1>
+
+<h2> TEAM CONTRIBUTORS </h2>
+<table>
+  <tr>
+   <td><strong>Quality Control (subsamples)</strong>
+   </td>
+   <td>Yasmin, Eman
+   </td>
+  </tr>
+  <tr>
+   <td>Quality Control (full files)
+   </td>
+   <td> Bandana, Jaspreet
+   </td>
+  </tr>
+  <tr>
+   <td>Results
+   </td>
+   <td> Bandana, Jaspreet, Eman
+   </td>
+  </tr>
+  <tr>
+   <td>
+Creating Readme
+
+
+   </td>
+   <td>Jaspreet
+   </td>
+  </tr>
+  <tr>
+   <td>
+Documentation
+
+
+   </td>
+   <td>Jaspreet, Bandana, Eman
+   </td>
+  </tr>
+</table>
