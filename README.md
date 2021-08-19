@@ -15,7 +15,6 @@
 Enjoy!🌟 
 
 ## Our Workflow
-<img src="!(![Transcriptomics (1)](https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png)
-)
+<img src="https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png
 " width="500" height="250">
 
