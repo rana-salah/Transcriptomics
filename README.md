@@ -44,18 +44,37 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
 
-   ![alt_text](output/4.png "GSM461177")
-
-   ![alt_text](output/5.png "GSM461180")
+<h3 align="center">
+ 
+ ![alt_text](output/4.png "GSM461177")
+ 
+ </h3>
+ 
+<h3 align="center">
+ 
+ ![alt_text](output/5.png "GSM461180")
+ 
+  </h3>
     
 ## 3. Further Inspection on IGV (mouse over for description)
 
+<h3 align="center">
+ 
    ![alt_text](output/6.png "Zoom onto Chr4 loci on IGV")
-    
 
-   ![alt_text](output/7.png "Display on local IGV")
+ </h3>
 
-   ![alt_text](output/8.png "IGV panel")
+<h3 align="center">
+ 
+ ![alt_text](output/7.png "Display on local IGV")
+ 
+</h3>
+
+<h3 align="center">
+ 
+ ![alt_text](output/8.png "IGV panel")
+
+</h3>
     
 ## 4.Counting the number of reads per annotated gene
 Estimation of the strandness:
