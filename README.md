@@ -66,18 +66,18 @@ Results:
 <h2> TEAM CONTRIBUTORS </h2>
 <table>
   <tr>
-    <td>GO analysis>
+    <td>GO analysis
     </td>
-    <td>Amira,Tosin,Shuruti, Bandana
+    <td>Amira,TosinA,ShurutiG, Bandana
    </td>
    <tr>
     <td>KEGG pathway Analysis
     </td>
-   <td>Amira, Rana, Tosin, Chigozie
+   <td>Amira, Rana, TosinA, Chigozie
    </td>
    </tr>
      <tr>
-    <td>Creation of ReadMe file For Team
+    <td>Documentation and creation of ReadMe file
     </td>
     <td>Tosin
 
