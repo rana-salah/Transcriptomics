@@ -33,7 +33,6 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
 ## 2. BAM File Inspection
 
    ![alt_text](output/4.png "GSM461177")
-    
 
    ![alt_text](output/5.png "GSM461180")
     
