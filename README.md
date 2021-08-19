@@ -67,48 +67,59 @@ The input files are the mapped bam files and also the annotation file which is t
   
 ![alt_text](output/19.jpg)
 Results:
-    ![alt_text](output/20.png)
+  ![alt_text](output/20.png)
     
 Around 63% of the reads have been assigned to genes: this quantity is good enough.If the percentage falls below 50%, you should investigate where your reads are mapping (inside genes or not, with IGV) and then check that the annotation corresponds to the correct reference genome version.
 
 <h2> TEAM CONTRIBUTORS </h2>
+<td>**Mapping**
 
-<table>
-  <tr>
-   <td><h3>Mapping</h3>
    </td>
    <td>Yasmin, Dawoud, saket, bandana, nirvana, johny, favour, Ankita, Eman
+
    </td>
-  </tr>
-  <tr>
    <td>Inspection of Mapping results
+
    </td>
    <td>Yasmeen, Nirvana, Dawoud, Bandana
+
    </td>
-  </tr>
-  <tr>
    <td>Counting the number of reads per annotated gene
+
    </td>
    <td>Yasmeen, Saket, Johny
+
    </td>
-  </tr>
-  <tr>
    <td>Estimation of the strandness
+
    </td>
    <td>Eman, Saket
-   </td>
-  </tr>
-  <tr>
-   <td>
-     Counting reads per genes
 
+   </td>
+   <td>
+
+## Counting reads per genes
 
    </td>
    <td>Ankita, Favour, Nirvana
-   </td>
-  </tr>
-</table>
 
+   </td>
+   <td>
+
+## Creating Readme
+
+   </td>
+   <td>Saket, Yasmeen, Johny
+
+   </td>
+   <td>
+
+## Documentation
+
+   </td>
+   <td>Eman, Yasmein, Dawoud
+
+   </td>
 
 
 
