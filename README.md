@@ -29,13 +29,17 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
  MultiQC: to aggregate the STAR logs
  
  <h3 align="center">
+ 
  ![alt_text](output/2.png)
- </h3>
+
+</h3>
     
  Results
  <h3 align="center">
+ 
  ![alt_text](output/3.png)
- </h3>
+
+</h3>
     
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
