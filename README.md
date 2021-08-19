@@ -42,4 +42,6 @@ Results:
 
 [GO_TOP[2].pdf](https://github.com/rana-salah/Transcriptomics/files/7017700/GO_TOP.2.pdf)
 
+ ## 2.KEGG Pathway Analysis
 
+```goseq``` was also used to identify KEGG pathways for our analysis. The KEGG pathway database is a collection of pathway maps representing the current knowledge on the molecular interaction, reaction and relation networks.
