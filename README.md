@@ -51,6 +51,7 @@ inputs include
 ![GO_KEGG 1](https://user-images.githubusercontent.com/88287437/130145621-0202a61f-7e1a-4659-a125-d1589b2f6438.PNG)
 
 results
+Pathview generates a collection with the KEGG visualization: one file per pathway.The colored boxes are genes in the pathway that are differentially expressed green is for value below 0, it means for genes with a log2FC < 0 and red for genes with a log2FC > 0.
 
 ![Galaxy18--Pathview_on_data_17__KEGG_Pathway_(dme00010)- 1](https://user-images.githubusercontent.com/88287437/130145732-05f35a39-71d6-4af4-840e-1f5f33157886.png)
 
