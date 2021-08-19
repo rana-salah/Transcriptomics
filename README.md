@@ -1,7 +1,7 @@
 # Transcriptomics
 
 # Mapping 
-
+***
 ## 1. Alignment step
 
 > We need to first figure out where the sequences originated from in the genome, so we can then determine to which genes they belong. \
