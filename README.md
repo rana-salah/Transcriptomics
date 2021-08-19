@@ -22,7 +22,7 @@ The input files is the differentially expressed genes from all genes assayed in 
 
 ![GO_5 1](https://user-images.githubusercontent.com/88287437/130139574-3d9e4341-a22d-4b74-8889-e9638bdf78fa.PNG)
 
-goseq generates with these parameters 3 outputs. A table (Ranked category list - Wallenius method) with the following columns for each GO term:
+goseq generates outputs with the following columns for each GO term:
 
    - "category: GO category"
    -"over_rep_pval: p-value for over-representation of the term in the differentially expressed genes"
@@ -44,4 +44,17 @@ Results:
 
  ## 2.KEGG Pathway Analysis
 
-```goseq``` was also used to identify KEGG pathways for our analysis. The KEGG pathway database is a collection of pathway maps representing the current knowledge on the molecular interaction, reaction and relation networks.
+```goseq``` was also used to identify KEGG pathways for our analysis. The KEGG pathway database is a collection of pathway maps representing the current knowledge on the molecular interaction, reaction and relation networks.for our KEGG analysis 2 files were generated
+
+inputs include
+
+![GO_KEGG 1](https://user-images.githubusercontent.com/88287437/130145621-0202a61f-7e1a-4659-a125-d1589b2f6438.PNG)
+
+results
+
+![Galaxy18--Pathview_on_data_17__KEGG_Pathway_(dme00010)- 1](https://user-images.githubusercontent.com/88287437/130145732-05f35a39-71d6-4af4-840e-1f5f33157886.png)
+
+![Galaxy37--Pathview_on_data_35__KEGG_Pathways__dme03040- 1](https://user-images.githubusercontent.com/88287437/130145880-13195cfb-6e5d-444b-9dc7-0c7bce2b8188.png)
+
+
+
