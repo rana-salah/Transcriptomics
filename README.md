@@ -62,5 +62,10 @@ Pathview generates a collection with the KEGG visualization: one file per pathwa
 
 ![Galaxy37--Pathview_on_data_35__KEGG_Pathways__dme03040- 1](https://user-images.githubusercontent.com/88287437/130145880-13195cfb-6e5d-444b-9dc7-0c7bce2b8188.png)
 
+# Contributors
+
+ ## 1.Akinola Tosin- TosinA
+ ## 2.amira Momodu - amira
+
 
 
