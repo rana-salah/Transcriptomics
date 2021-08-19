@@ -67,7 +67,7 @@ The input files are the mapped bam files and also the annotation file which is t
   
    ![alt_text](output/19.jpg)
 Results:
-    ![alt_text](output/20.jpg)
+    ![alt_text](output/20.png)
     
 Around 63% of the reads have been assigned to genes: this quantity is good enough.If the percentage falls below 50%, you should investigate where your reads are mapping (inside genes or not, with IGV) and then check that the annotation corresponds to the correct reference genome version.
 
