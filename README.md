@@ -23,11 +23,11 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
     
  MultiQC: to aggregate the STAR logs
  
-    ![alt_text](output/2.jpg)
+    ![alt_text](output/2.png)
     
  Results
  
-    ![alt_text](output/3.jpg)
+    ![alt_text](output/3.png)
     
  More than 83% for GSM461177 and more than 79% for GSM461180. We can proceed with the analysis since only percentages below 70% should be investigated for potential contamination.
 ## 2. BAM File Inspection
@@ -39,17 +39,17 @@ GSM461180
     
 ## 3. Further Inspection on IGV
 Display on local IGV
-    **[Insert image here]**
+    ![alt_text](output/6.png)
     
 Zoom onto Chr4 loci on IGV
-    **[Insert image here]**
+    ![alt_text](output/7.png)
 IGV panel
-    **[Insert image here]**
+    ![alt_text](output/8.png)
     
 ## 4.Counting the number of reads per annotated gene
 Estimation of the strandness:
 First, we used Convert GTF to BED12 Tool: to convert the GTF file to BED
-    **[Insert image here]**
+   ![alt_text](output/9.png)
     
 Then Infer Experiment Tool: to determine the library strandness:
     **[Insert image here]**
