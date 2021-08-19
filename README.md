@@ -73,54 +73,58 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
 
 <h2> TEAM CONTRIBUTORS </h2>
 <table>
- <td>**Mapping**
-
+  <tr>
+   <td><strong>Mapping</strong>
    </td>
    <td>Yasmin, Dawoud, saket, bandana, nirvana, johny, favour, Ankita, Eman
-
    </td>
+  </tr>
+  <tr>
    <td>Inspection of Mapping results
-
    </td>
    <td>Yasmeen, Nirvana, Dawoud, Bandana
-
    </td>
+  </tr>
+  <tr>
    <td>Counting the number of reads per annotated gene
-
    </td>
    <td>Yasmeen, Saket, Johny
-
    </td>
+  </tr>
+  <tr>
    <td>Estimation of the strandness
-
    </td>
    <td>Eman, Saket
-
    </td>
+  </tr>
+  <tr>
    <td>
+<h2>Counting reads per genes</h2>
 
-## Counting reads per genes
 
    </td>
    <td>Ankita, Favour, Nirvana
-
    </td>
+  </tr>
+  <tr>
    <td>
+<h2>Creating Readme</h2>
 
-## Creating Readme
 
    </td>
    <td>Saket, Yasmeen, Johny
-
    </td>
+  </tr>
+  <tr>
    <td>
+<h2>Documentation</h2>
 
-## Documentation
 
    </td>
    <td>Eman, Yasmein, Dawoud
-
    </td>
+  </tr>
 </table>
+
 
 
