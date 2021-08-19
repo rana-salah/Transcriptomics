@@ -16,5 +16,8 @@ be thought of as a function which gives the probability that a gene will be diff
 (DE)based on the lenght alone. We obtain a weight for each gene, depending on its length, given by the PWF.
 
 The input files is the differentially expressed genes from all genes assayed in the RNA-Seq experiment
+
    - "the Gene IDs (unique within the file), in uppercase letters"
-    - "a boolean indicating whether the gene is differentially expressed or not (True if differentially expressed or False if not)"
+   - "a boolean indicating whether the gene is differentially expressed or not (True if differentially expressed or False if not)"
+
+https://drive.google.com/file/d/19faqLApcXgcvyo9vB149dZhdwid3t2im/view?usp=drivesdk
