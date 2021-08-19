@@ -10,7 +10,7 @@ Ater extraction and annotation of differentially expressed genes it is important
 
 ```Goseq R bioconductor package``` was used for this analysis
 
-To begin the analysis, goseq first needs to quantify the length bias present in the dataset under
+To begin the analysis, goseq was used to quantify the length bias present in the dataset under
 consideration. This is done by calculating a Probability Weighting Function or PWF which can
 be thought of as a function which gives the probability that a gene will be differentially expressed
-(DE)based on the lenght alone,
+(DE)based on the lenght alone. We obtain a weight for each gene, depending on its length, given by the PWF.
