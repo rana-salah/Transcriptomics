@@ -7,3 +7,9 @@
   <img src="https://user-images.githubusercontent.com/88287648/130117638-ea479672-b3f1-4bfe-8d50-fb71a62fc17e.gif" width="500" height="250">
 </h3>
 
+<h2 align="center"> 
+  Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Transcriptomics Lab- Where we do all things RNA:mechanical_arm: :tada: </h2> 
+  :man_scientist: :woman_scientist: We are research enthusiasts from diverse backgrounds in life sciences:scientist: :man_scientist:  .In our lab we study transcriptome to provide insight into how genes work:microbe: . This ReadMe provides complete analysis of an RNA-seq experiment profiling Drosophila cells after the depletion of a regulatory gene called Pasilla (Ps).
+
+Enjoy!🌟 
