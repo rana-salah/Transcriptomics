@@ -37,7 +37,7 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
 
    ![alt_text](output/5.png "GSM461180")
     
-## 3. Further Inspection on IGV
+## 3. Further Inspection on IGV (mouse over for description)
 
    ![alt_text](output/6.png "Display on local IGV")
     
