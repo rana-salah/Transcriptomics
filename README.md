@@ -106,7 +106,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   <tr>
    <td><strong>Mapping</strong>
    </td>
-   <td>Yasmin, Dawoud, saket, bandana, nirvana, johny, favour, Ankita, Eman
+   <td>Yasmin, Dawoud, Saket, Bandana, Nirvana, Johny, Favour, Ankita, Eman
    </td>
   </tr>
   <tr>
