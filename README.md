@@ -99,7 +99,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   </tr>
   <tr>
    <td>
-#Counting reads per genes#
+Counting reads per genes
 
 
    </td>
@@ -108,7 +108,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   </tr>
   <tr>
    <td>
-#Creating Readme#
+Creating Readme
 
 
    </td>
@@ -117,7 +117,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   </tr>
   <tr>
    <td>
-#Documentation#
+Documentation
 
 
    </td>
