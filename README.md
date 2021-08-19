@@ -29,13 +29,17 @@ goseq generates with these parameters 3 outputs. A table (Ranked category list -
    - "under_rep_pval: p-value for under-representation of the term in the differentially expressed genes"
    - "numDEInCat: number of differentially expressed genes in this category"
    - "numInCat: number of genes in this category term: detail of the term"
-   - "ontology: MF (Molecular Function - molecular activities of gene products), CC (Cellular Component - where gene products are active), BP (Biological Process - pathways and larger processes made up of the activities of multiple gene products)"
-    - "p.adjust.over_represented: p-value for over-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg procedure"
-    - "p.adjust.under_represented: p-value for under-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg procedure"
+   - "ontology: MF (Molecular Function - molecular activities of gene products), CC (Cellular Component - where gene products are active), BP (Biological Process - pathways and 
+   larger processes made up of the activities of multiple gene products)"
+   - "p.adjust.over_represented: p-value for over-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg 
+   procedure"
+   - "p.adjust.under_represented: p-value for under-representation of the term in the differentially expressed genes, adjusted for multiple testing with the Benjamini-Hochberg 
+   procedure"
     
 ![GO_RANK 1](https://user-images.githubusercontent.com/88287437/130142391-1d2631b5-dc3f-48ee-aa7e-3351c208876c.PNG)
 
 Results:
 
-[GO_TOP[1].pdf](https://github.com/rana-salah/Transcriptomics/files/7017683/GO_TOP.1.pdf)
+[GO_TOP[2].pdf](https://github.com/rana-salah/Transcriptomics/files/7017700/GO_TOP.2.pdf)
+
 
