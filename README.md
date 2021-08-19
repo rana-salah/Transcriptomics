@@ -66,7 +66,20 @@ Results:
 <h2> Team Contributors <h2>
 <table>
 <tr>
-<td><GO analysis></
+<td><GO analysis>
+</td>
+<td>Amira,Tosin,Shuruti, Bandana
+</td>
+</tr>
+<td>KEGG pathway Analysis
+</td>
+<td>Amira, Rana, Tosin, Chigozie
+</td>
+</tr>
+<tr>
+<td>Creation of ReadMe file For Team
+</td>
+<td>Tosin
 
 
 
