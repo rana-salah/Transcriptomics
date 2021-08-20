@@ -26,7 +26,8 @@
 | Function | A quality control tool for high throughput sequence data. |
 |  Steps | Go to NGS: QC and manipulation / Select FastQC / Press Execute.|
 |  Input file| .fastqsanger |
-|  Output files | (I) Raw data: It consists of text description. (II) Web page – It consists of detail graphical representation of your fastq data. |
+|  Output files | (I) Raw data: It consists of text description.|
+|------------|(II) Web page – It consists of detail graphical representation of your fastq data. |
 
 ```Note:``` One can select multiple datasets to run multiple files simultaneously.
 
@@ -69,7 +70,7 @@
 
 ```1.) MultiQC:``` All files except GSM461180_2 have a high proportion of duplicated reads which is expected in RNA-Seq data. The “Per base sequence quality” is globally good with a slight decrease at the end of the sequences. Moreover, almost no known adapters and overrepresented sequences are present. </p>
 
-```**2.) Cutadapt:**``` For GSM461177 5,072,810 forward reads and 8,648,619 bp of reverse reads have been removed due to quality. GSM461180 has a forward bandwidth of 10,224,537 bps and a reverse bandwidth of 51,746,850  bps.: At the conclusion of the reads, the quality of the reverse reads dropped more than the forward reads, especially for GSM461180.For GSM461177, 147,810 (2.4%) readings were too short, whereas 1101875 (12.4%) were too short for GSM461180.
+```2.) Cutadapt:``` For GSM461177 5,072,810 forward reads and 8,648,619 bp of reverse reads have been removed due to quality. GSM461180 has a forward bandwidth of 10,224,537 bps and a reverse bandwidth of 51,746,850  bps.: At the conclusion of the reads, the quality of the reverse reads dropped more than the forward reads, especially for GSM461180.For GSM461177, 147,810 (2.4%) readings were too short, whereas 1101875 (12.4%) were too short for GSM461180.
 
 <h1 align="center">   
 
