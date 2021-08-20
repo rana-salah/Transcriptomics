@@ -247,8 +247,10 @@ Another statistical measure is to calculate the z score and represent expression
 |d.|“Labeling columns and rows”: `Label columns and not rows`|
 |e.|“Coloring groups”: `Blue to white to red`|
 
-|![5](https://user-images.githubusercontent.com/57266535/130301121-8c4df88e-4724-4842-8a49-88c3655a2d45.png)| |
-|---|---|
+<h3 align="center">
+    
+![5](https://user-images.githubusercontent.com/57266535/130301121-8c4df88e-4724-4842-8a49-88c3655a2d45.png)| |
+</h1>
 
 ### `👉 Result`
 
