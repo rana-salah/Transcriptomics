@@ -34,6 +34,8 @@ Enjoy!🌟
 <img src= "https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png" width="800" height="600">
 </h3>
 
+<img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "500">
+
 
  <img src="https://user-images.githubusercontent.com/88287648/130271117-93d080a4-2474-470e-806d-ef04e04721ae.gif" width="1000" height="300">
 
