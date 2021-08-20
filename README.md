@@ -12,6 +12,10 @@
 |e.| Labeling columns and rows”: Label columns and not rows |
 |f.| Coloring groups”: Blue to white to red|
 
+<h1 align="center">
+ 
+![6](https://user-images.githubusercontent.com/57266535/130248627-46327f99-9921-469e-b3a5-a7d19f737efb.png)
+</h1>
 
 2) Another statistical measure is to calculate the z score and represent expression in terms of deviation from mean. This is done using table compute function for normalized counts; which says how far from mean values our actual readings are (in terms of standard deviations). Note that +-3SD has around 99.6% of data. Lower expressed (downregulated) genes will have negative SD, and upregulated will have positive SD. Our samples will show a plus or minus representation. Another heatmap is plotted to see how individual samples fare.
 
@@ -39,7 +43,11 @@ Rename the output to Z-scores for the most differentially expressed genes
 “Enable data clustering”: Yes
 “Labeling columns and rows”: Label columns and not rows
 “Coloring groups”: Blue to white to red
+
+<h1 align="center">
  
+![7](https://user-images.githubusercontent.com/57266535/130248956-0a218b31-76e6-417f-8627-33a2577141b1.png)
+</h1>
 
 
 
