@@ -182,7 +182,7 @@ Well Done!! You have finished the differential gene expression analysis of your 
 
 - Rename the output to `Normalized counts for the most differentially expressed genes`
 
-| ![2](https://user-images.githubusercontent.com/57266535/130301117-db901921-74f4-410c-ae0e-a41b59cf880c.png)|[Click Here](https://github.com/rana-salah/Transcriptomics/blob/1c9c5f9270f1a294564f50a718cad08aae8be598/DE%20analysis%20&%20Visualization%20Results/Galaxy39-%5BNormalized_counts_for_the_most_differentially_expressed_genes%5D.tabular) |
+| ![2](https://user-images.githubusercontent.com/57266535/130301117-db901921-74f4-410c-ae0e-a41b59cf880c.png)|[Result](https://github.com/rana-salah/Transcriptomics/blob/1c9c5f9270f1a294564f50a718cad08aae8be598/DE%20analysis%20&%20Visualization%20Results/Galaxy39-%5BNormalized_counts_for_the_most_differentially_expressed_genes%5D.tabular) |
 |---|---|
 
  ## `👉 To plot the heatmap`
