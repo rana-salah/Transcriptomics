@@ -219,6 +219,9 @@ Another statistical measure is to calculate the z score and represent expression
 |c.|Custom expression on ‘table’, along ‘axis’ (0 or 1)”: `table.sub(table.mean(1), 0)`|
 |d.|The table.mean(1) expression computes the mean for each row (here the genes) and table.sub(table.mean(1), 0) subtracts each value by the mean of the row (computed with table.mean(1))|
 
+|![3](https://user-images.githubusercontent.com/57266535/130301119-8670666b-9302-4e6a-9515-a2d23120ad21.png)|[Result](https://github.com/rana-salah/Transcriptomics/blob/577eb6ad9b4c9b5e66650a67d9933e80262fe415/DE%20analysis%20&%20Visualization%20Results/Galaxy41-%5BTable_Compute_on_data_39%5D.tabular) |
+|---|---|
+
 ## `👉 Table Compute Tool`
 - “Input Single or Multiple Tables”: Multiple Table
 
@@ -230,6 +233,9 @@ Another statistical measure is to calculate the z score and represent expression
 |d.|Custom expression on `‘table2.div(table1.std(1),0)‘`|
 |e.|he table1.std(1) expression computes the standard deviations of each row on the 1st table (normalized counts) and table2.div divides the values of 2nd table (previously computed) by these standard deviations.|
 |f.|Rename the output to Z-scores for the most differentially expressed genes|
+
+|![4](https://user-images.githubusercontent.com/57266535/130301120-020e9cb7-f8a0-44d1-9b3d-9472213cae80.png)|[Result](https://github.com/rana-salah/Transcriptomics/blob/577eb6ad9b4c9b5e66650a67d9933e80262fe415/DE%20analysis%20&%20Visualization%20Results/Galaxy42-%5BZ-scores_for_the_most_differentially_expressed_genes%5D.tabular) |
+|---|---|
 
 ## `👉 To plot the heatmap`
 
