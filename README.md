@@ -282,8 +282,8 @@ Counting reads per genes
    </td>
    <td>Ankita, Favour, Nirvana
    </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
    <td>
 Creating Readme
 
