@@ -68,7 +68,7 @@ Results:
   <tr>
     <td>GO analysis
     </td>
-    <td>Amira,TosinA,ShurutiG, Bandana
+    <td>Amira,TosinA,ShurutiG, Bandana, Johny
    </td>
    <tr>
     <td>KEGG pathway Analysis
