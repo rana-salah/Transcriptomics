@@ -163,8 +163,6 @@ Well Done!! You have finished the differential gene expression analysis of your 
 |  e.| Labeling columns and rows”: `Label columns and not rows` |
 |  f.| Coloring groups”: `Blue to white to red`|
 
-<h1 align="center">
-
 ### `👉 Result`
 
 <h1 align="center">
