@@ -1,7 +1,7 @@
 <h1 align="center"> Quality Control </h1>
 
 # Preparing the reads
-## Import data from URLs
+<h2> :point_right: Import data from URLs </h2>
 
 - Read sequences are usually stored in compressed (gzipped) FASTQ files.The raw reads used in this tutorial were obtained from zenodo library from the link mentioned in the image below:
 
@@ -13,29 +13,29 @@
 
 - The reads are raw data from the sequencing machine without any pretreatments. They need to be assessed for their quality.
 
-1)	Quality control
+<h2> :point_right:	Quality control </h2>
 
-Before analysis, we have to carry out a quality check for our reads to get rid of any errors resulted during the sequencing process such as incorrect nucleotides being called and prevent misinterpretation of the data. Hence, Quality Assessment is important to check the quality of your sequenced reads.
+   Before analysis, we have to carry out a quality check for our reads to get rid of any errors resulted during the sequencing process such as incorrect nucleotides being called and prevent misinterpretation of the data. Hence, Quality Assessment is important to check the quality of your sequenced reads.
 
-Here, we use:
+ Here, we use:
 
-a.) 
+# 1.
 
-| **Fast QC** | Description |
+|**Fast QC** | Description |
 |----------| ----------------------------------------------------------|
 | Function | A quality control tool for high throughput sequence data. |
 |  Steps | Go to NGS: QC and manipulation / Select FastQC / Press Execute.|
 |  Input file| .fastqsanger |
 |  Output files | (I) Raw data: It consists of text description. (II) Web page – It consists of detail graphical representation of your fastq data. |
 
-Note: One can select multiple datasets to run multiple files simultaneously.
+```Note:``` One can select multiple datasets to run multiple files simultaneously.
 
 <h1 align="center"> 
   
 ![data2](https://user-images.githubusercontent.com/57266535/130148312-ba648c91-1b63-4e58-bc02-37a4b610a474.png)
 </h1>
 
-b.)
+# 2.
 
 | **MultiQC** | Description |
 |----------| ----------------------------------------------------------|
@@ -47,7 +47,8 @@ b.)
   
 ![data3](https://user-images.githubusercontent.com/57266535/130148318-178028ff-fe6b-48f2-bad6-5f4faac486aa.png)
 </h1>
-c.)
+
+# 3.
 
 | **Cutadapt** | Description |
 |----------| ----------------------------------------------------------|
@@ -64,11 +65,11 @@ c.)
 ![data5](https://user-images.githubusercontent.com/57266535/130148319-2c116dea-c09a-492c-971f-67c6b6d1ff00.png)
 </h1>
 
-## Results: 
+<h2> :point_right:	Results </h2> 
 
-**1.) MultiQC:** All files except GSM461180_2 have a high proportion of duplicated reads which is expected in RNA-Seq data. The “Per base sequence quality” is globally good with a slight decrease at the end of the sequences. Moreover, almost no known adapters and overrepresented sequences are present.
+```1.) MultiQC:``` All files except GSM461180_2 have a high proportion of duplicated reads which is expected in RNA-Seq data. The “Per base sequence quality” is globally good with a slight decrease at the end of the sequences. Moreover, almost no known adapters and overrepresented sequences are present. </p>
 
-**2.) Cutadapt:** For GSM461177 5,072,810 forward reads and 8,648,619 bp of reverse reads have been removed due to quality. GSM461180 has a forward bandwidth of 10,224,537 bps and a reverse bandwidth of 51,746,850  bps.: At the conclusion of the reads, the quality of the reverse reads dropped more than the forward reads, especially for GSM461180.For GSM461177, 147,810 (2.4%) readings were too short, whereas 1101875 (12.4%) were too short for GSM461180.
+```**2.) Cutadapt:**``` For GSM461177 5,072,810 forward reads and 8,648,619 bp of reverse reads have been removed due to quality. GSM461180 has a forward bandwidth of 10,224,537 bps and a reverse bandwidth of 51,746,850  bps.: At the conclusion of the reads, the quality of the reverse reads dropped more than the forward reads, especially for GSM461180.For GSM461177, 147,810 (2.4%) readings were too short, whereas 1101875 (12.4%) were too short for GSM461180.
 
 <h1 align="center">   
 
