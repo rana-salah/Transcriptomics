@@ -284,4 +284,4 @@ Identification of the differentially expressed features | Utkarsha, Osama, Johny
 Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Chigozie, Pankaj, Osama, Nikita|
 Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
 Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
-Markdown Documentation | Utkarsha, Osama | 
+Markdown Documentation | Utkarsha, Osama, Rana, Jaspreet | 
