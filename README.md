@@ -24,7 +24,7 @@
 |**Fast QC** | Description |
 |:----------:| ------------|
 | Function | A quality control tool for high throughput sequence data. |
-|  Steps | Go to NGS: `QC and manipulation /| Select FastQC /| Press Execute.`|
+|  Steps | Go to NGS: `QC and manipulation / Select FastQC / Press Execute.`|
 |  Input file| .fastqsanger |
 |  Output files | (I) Raw data: It consists of text description.|
 ||(II) Web page – It consists of detail graphical representation of your fastq data. |
@@ -41,7 +41,7 @@
 | **MultiQC** | Description |
 |:----------:| ----------|
 | Function | Summarises the output from numerous bioinformatics tools (FastQC, Cutadapt, BAM etc.) into a single report. |
-|  Steps | Go to NGS: `QC and manipulation /| Select MultiQC /| Select FastQC Raw datas /| Press Execute.`|
+|  Steps | Go to NGS: `QC and manipulation / Select MultiQC / Select FastQC Raw datas / Press Execute.`|
 |  Input file| FastQC Raw Data |
 
 <h1 align="center"> 
