@@ -161,7 +161,9 @@ Both samples a most probably from female flies.
 A gene body refers to the different regions of a gene. A gene has regulatory regions such as the promoter region etcetera. It is important to check if reads coverage is uniform over gene body or if there is any 5’/3’ bias. A bias towards the 5’ end of genes could indicate RNA degradation while a 3’ bias could indicate that the data is from a 3’ assay (such as PCR dependent sequencing technologies).
 
 ```Gene Body Coverage (BAM)```: To assess gene body coverage on the results of RNA STAR (i.e. .bam files) and inputting the reference gene as model (i.e. after converting the drosophila reference .gtf file to BED format using ```Convert GTF to BED12```). 
-```MultiQC```: To aggregate results from both samples onto the output.
+ 
+ 
+ ```MultiQC```: To aggregate results from both samples onto the output.
 
  
 <h3 align="center">
