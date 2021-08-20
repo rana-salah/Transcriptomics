@@ -231,37 +231,42 @@ The samples are clustering by treatment, all the treated csamples can be visuali
 
 Another statistical measure is to calculate the z score and represent expression in terms of deviation from mean. This is done using table compute function for normalized counts; which says how far from mean values our actual readings are (in terms of standard deviations). Note that +-3SD has around 99.6% of data. Lower expressed (downregulated) genes will have negative SD, and upregulated will have positive SD. Our samples will show a plus or minus representation. Another heatmap is plotted to see how individual samples fare.
 
-``` Table Compute Tool```
-```
-- with the following parameters to first subtract the mean values per row
+## `👉 Table Compute` with the following parameters to first subtract the mean values per row
 - “Input Single or Multiple Tables”: Single Table
-- param-file
-- “Table”: Normalized counts for the most differentially expressed genes
-- “Type of table operation”: Perform a full table operation
-- Custom expression on ‘table’, along ‘axis’ (0 or 1)”: table.sub(table.mean(1), 0)
-- The table.mean(1) expression computes the mean for each row (here the genes) and table.sub(table.mean(1), 0) subtracts each value by the mean of the row (computed with table.mean(1))
 
-```
-``` Table Compute Tool```
-```
+|Steps||
+|:-----:|---|
+|a.|param-file|
+|b.|“Table”: `Normalized counts for the most differentially expressed genes`|
+|c.|“Type of table operation”: `Perform a full table operation`|
+|d.|Custom expression on ‘table’, along ‘axis’ (0 or 1)”: `table.sub(table.mean(1), 0)`|
+|e.|The table.mean(1) expression computes the mean for each row (here the genes) and table.sub(table.mean(1), 0) subtracts each value by the mean of the row (computed with table.mean(1))|
+
+## `👉 Table Compute Tool`
 - “Input Single or Multiple Tables”: Multiple Table
-- param-file
-- “Table1”: Normalized counts for the most differentially expressed genes
-- Click on: “Insert Tables”
-- “Table2”: Table compute output
-- Custom expression on ‘table2.div(table1.std(1),0)‘
-- The table1.std(1) expression computes the standard deviations of each row on the 1st table (normalized counts) and table2.div divides the values of 2nd table (previously computed) by these standard deviations.
-- Rename the output to Z-scores for the most differentially expressed genes
- ```
-<h3> To plot the heatmap: </h3>
- ```
-- “Input should have column headers”: Z-scores for the most differentially expressed genes
-- “Advanced - log transformation”/“Data transformation”: Plot the data as it is
-- “Enable data clustering”: Yes
-- “Labeling columns and rows”: Label columns and not rows
-- “Coloring groups”: Blue to white to red
-```
- <h3> Result </h3>
+
+|Steps||
+|:-----:|---|
+|a.|param-file|
+|b.|“Table1”: `Normalized counts for the most differentially expressed genes`|
+|c.|Click on: “Insert Tables”|
+|d.|“Table2”: `Table compute output`|
+|e.|Custom expression on `‘table2.div(table1.std(1),0)‘`|
+|f.|he table1.std(1) expression computes the standard deviations of each row on the 1st table (normalized counts) and table2.div divides the values of 2nd table (previously computed) by these standard deviations.|
+|g.|Rename the output to Z-scores for the most differentially expressed genes|
+
+## `👉 To plot the heatmap`
+
+|Steps||
+|:-----:|---|
+|a.|“Input should have column headers”: `Z-scores for the most differentially expressed genes`|
+|b.|“Advanced - log transformation”/“Data transformation”: `Plot the data as it is`|
+|c.|“Enable data clustering”: `Yes`|
+|d.|“Labeling columns and rows”: `Label columns and not rows`|
+|e.|“Coloring groups”: `Blue to white to red`|
+
+### `👉 Result`
+
 <h3 align="center">
  
 ![7](https://user-images.githubusercontent.com/57266535/130248956-0a218b31-76e6-417f-8627-33a2577141b1.png)
@@ -283,6 +288,6 @@ The Z-score ranges from -3 standard deviations up to +3 standard deviations. Whe
 ------------ | ------------- 
 Identification of the differentially expressed features | Utkarsha, Osama, Johny, Nikita, Rana, Yasmeen | 
 Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Chigozie, Pankaj, Osama, Nikita|
-Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana, Osama | 
+Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
 Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
-Markdown Documentation | Utkarsha, Rana, Jaspreet, Osama |
+Markdown Documentation | Utkarsha, Osama, Jaspreet | 
