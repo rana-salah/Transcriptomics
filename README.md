@@ -260,3 +260,7 @@ Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Ch
 Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
 Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
 Markdown Documentation | Utkarsha, Osama, Jaspreet | 
+
+|step||
+|---|---|
+|![1](https://user-images.githubusercontent.com/57266535/130300036-a40d2846-8b33-4821-aa4d-575fa58e1d87.png)|[Link](https://github.com/rana-salah/Transcriptomics/blob/06c15497daa6cc5f146a919b641a5285df086b6b/DE%20analysis%20&%20Visualization%20Results/Galaxy24-%5BDESeq2_plots_on_data_21,_data_18,_and_others%5D%20(2).pdf) |
