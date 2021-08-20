@@ -282,6 +282,6 @@ The Z-score ranges from -3 standard deviations up to +3 standard deviations. Whe
 ------------ | ------------- 
 Identification of the differentially expressed features | Utkarsha, Osama, Johny, Nikita, Rana, Yasmeen | 
 Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Chigozie, Pankaj, Osama, Nikita|
-Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
+Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana, Osama | 
 Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
 Markdown Documentation | Utkarsha, Osama, Rana, Jaspreet | 
