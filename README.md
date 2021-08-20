@@ -33,17 +33,17 @@
 ||Custom expression on ‘table’, along ‘axis’ (0 or 1)”: table.sub(table.mean(1), 0)|
 ||The table.mean(1) expression computes the mean for each row (here the genes) and table.sub(table.mean(1), 0) subtracts each value by the mean of the row (computed with table.mean(1))|
  
-### “Input Single or Multiple Tables”: Multiple Table
 
-|Steps||
-|-----|---|
-param-file
-“Table1”: Normalized counts for the most differentially expressed genes
-Click on: “Insert Tables”
-“Table2”: Table compute output
-Custom expression on ‘table2.div(table1.std(1),0)‘
-The table1.std(1) expression computes the standard deviations of each row on the 1st table (normalized counts) and table2.div divides the values of 2nd table (previously computed) by these standard deviations.
-Rename the output to Z-scores for the most differentially expressed genes
+
+
+- Input Single or Multiple Tables”: Multiple Table
+   - param-file
+   - “Table1”: Normalized counts for the most differentially expressed genes
+   - Click on: “Insert Tables”
+   - “Table2”: Table compute output
+   - Custom expression on ‘table2.div(table1.std(1),0)‘
+   - The table1.std(1) expression computes the standard deviations of each row on the 1st table (normalized counts) and table2.div divides the values of 2nd table (previously computed) by these standard deviations.
+   - Rename the output to Z-scores for the most differentially expressed genes|
  
 ## To plot the heatmap:
 
