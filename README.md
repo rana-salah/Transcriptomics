@@ -271,7 +271,7 @@ Around 63% of the reads have been assigned to genes: this quantity is good enoug
   <tr>
    <td>Estimation of the strandness
    </td>
-   <td>Eman, Saket
+   <td>Eman, Saket, Johny
    </td>
   </tr>
   <tr>
