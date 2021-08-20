@@ -22,12 +22,12 @@
 # 1.
 
 |**Fast QC** | Description |
-|----------| ----------------------------------------------------------|
+|:----------:| ------------|
 | Function | A quality control tool for high throughput sequence data. |
-|  Steps | Go to NGS: QC and manipulation / Select FastQC / Press Execute.|
+|  Steps | Go to NGS: `QC and manipulation /| Select FastQC /| Press Execute.`|
 |  Input file| .fastqsanger |
 |  Output files | (I) Raw data: It consists of text description.|
-|------------|(II) Web page – It consists of detail graphical representation of your fastq data. |
+||(II) Web page – It consists of detail graphical representation of your fastq data. |
 
 ```Note:``` One can select multiple datasets to run multiple files simultaneously.
 
@@ -39,9 +39,9 @@
 # 2.
 
 | **MultiQC** | Description |
-|----------| ----------------------------------------------------------|
+|:----------:| ----------|
 | Function | Summarises the output from numerous bioinformatics tools (FastQC, Cutadapt, BAM etc.) into a single report. |
-|  Steps | Go to NGS: QC and manipulation / Select MultiQC / Select FastQC Raw datas / Press Execute.|
+|  Steps | Go to NGS: `QC and manipulation /| Select MultiQC /| Select FastQC Raw datas /| Press Execute.`|
 |  Input file| FastQC Raw Data |
 
 <h1 align="center"> 
@@ -52,13 +52,13 @@
 # 3.
 
 | **Cutadapt** | Description |
-|----------| ----------------------------------------------------------|
+|:----------:| --------------|
 | Function | To improve the quality of sequences via trimming and filtering for Transcriptome alignment and is used to remove overrepresented reads.
 |  Steps | a.) Data Upload |
-|--------| b.) To trim Low quality sequences, Select the Paired end according to our raw data GSM1177 and GSM1180 and the forward, reverse read respectively.|
-|--------| c.) In Filter option the “minimum length = 20”|
-|--------| d.) In Read modification option “Quality cut-off = 20”|
-|--------| e.) In Output option “Report = Yes”|
+|| b.) To trim Low quality sequences, Select the Paired end according to our raw data GSM1177 and GSM1180 and the forward, reverse read respectively.|
+|| c.) In Filter option the “minimum length = 20”|
+|| d.) In Read modification option “Quality cut-off = 20”|
+|| e.) In Output option “Report = Yes”|
 |  Input file| FastQC file |
 
 <h1 align="center"> 
