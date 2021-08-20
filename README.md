@@ -218,6 +218,8 @@ Well Done!! You have finished the differential gene expression analysis of your 
 |d.|“Labeling columns and rows”: `Label columns and not rows`|
 |e.|“Coloring groups”: `Blue to white to red`|
 
+### `👉 Result`
+
 <h1 align="center">
 
 ![6](https://user-images.githubusercontent.com/57266535/130248627-46327f99-9921-469e-b3a5-a7d19f737efb.png) 
