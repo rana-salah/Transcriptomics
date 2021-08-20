@@ -168,6 +168,10 @@ Well Done!! You have finished the differential gene expression analysis of your 
 
 - The generated file has more columns than we need for the heatmap: mean normalized counts, log2FC and other annotation information. We need to remove the extra columns.
 
+|![1](https://user-images.githubusercontent.com/57266535/130300036-a40d2846-8b33-4821-aa4d-575fa58e1d87.png)|[Result](https://github.com/rana-salah/Transcriptomics/blob/1c9c5f9270f1a294564f50a718cad08aae8be598/DE%20analysis%20&%20Visualization%20Results/Galaxy38-%5BJoin_two_Datasets_on_data_37_and_data_25%5D.tabular) |
+|---|---|
+
+
 ## `👉 Cut Tool:` to extract the columns with the gene IDs and normalized counts
 
 |Steps||
@@ -177,6 +181,9 @@ Well Done!! You have finished the differential gene expression analysis of your 
 |c.|:page_facing_up: “From”: the joined dataset (output of Join two Datasets)|
 
 - Rename the output to `Normalized counts for the most differentially expressed genes`
+
+| ![2](https://user-images.githubusercontent.com/57266535/130301117-db901921-74f4-410c-ae0e-a41b59cf880c.png)|[Click Here](https://github.com/rana-salah/Transcriptomics/blob/1c9c5f9270f1a294564f50a718cad08aae8be598/DE%20analysis%20&%20Visualization%20Results/Galaxy39-%5BNormalized_counts_for_the_most_differentially_expressed_genes%5D.tabular) |
+|---|---|
 
  ## `👉 To plot the heatmap`
 |Steps||
@@ -260,7 +267,3 @@ Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Ch
 Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
 Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
 Markdown Documentation | Utkarsha, Osama, Jaspreet | 
-
-|step||
-|---|---|
-|![1](https://user-images.githubusercontent.com/57266535/130300036-a40d2846-8b33-4821-aa4d-575fa58e1d87.png)|[Link](https://github.com/rana-salah/Transcriptomics/blob/06c15497daa6cc5f146a919b641a5285df086b6b/DE%20analysis%20&%20Visualization%20Results/Galaxy24-%5BDESeq2_plots_on_data_21,_data_18,_and_others%5D%20(2).pdf) |
