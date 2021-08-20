@@ -249,7 +249,7 @@ Another statistical measure is to calculate the z score and represent expression
 
 <h3 align="center">
     
-![5](https://user-images.githubusercontent.com/57266535/130301121-8c4df88e-4724-4842-8a49-88c3655a2d45.png)| |
+![5](https://user-images.githubusercontent.com/57266535/130301121-8c4df88e-4724-4842-8a49-88c3655a2d45.png)
 </h1>
 
 ### `👉 Result`
