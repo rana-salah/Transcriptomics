@@ -2,9 +2,9 @@
 
 # Functional enrichment analysis
 
-After extraction and annotation of differentially expressed genes it is important for us to identify biological functions that might be impacted by the depletion of Passilla(ps). But first, we would like to know if the differentially expressed genes are enriched transcripts of genes which belong to more common or specific catogories. We performed 2 analysis to address this
--gene ontology analysis
--Kegg pathway analysis
+After extraction and annotation of differentially expressed genes, it is important for us to identify biological functions that might be impacted by the depletion of Passilla(ps). But first, we would like to know if the differentially expressed genes are enriched transcripts of genes which belong to more common or specific catogories. We performed two(2) analysis to address this-\
+<li>gene ontology analysis</li>
+<li>Kegg pathway analysis</li>
 
 ## 1.Gene Ontology Analysis
 
@@ -13,7 +13,7 @@ After extraction and annotation of differentially expressed genes it is importan
 To begin the analysis, goseq was used to quantify the length bias present in the dataset under
 consideration. This is done by calculating a Probability Weighting Function or PWF which can
 be thought of as a function which gives the probability that a gene will be differentially expressed
-(DE)based on the lenght alone. We obtain a weight for each gene, depending on its length, given by the PWF.
+(DE) based on the length alone. We obtain a weight for each gene, depending on its length, given by the PWF.
 
 The input files is the differentially expressed genes from all genes assayed in the RNA-Seq experiment
 
@@ -24,8 +24,8 @@ The input files is the differentially expressed genes from all genes assayed in 
 
 goseq generates outputs with the following columns for each GO term:
 
-   - Category": GO category
-   -"over_rep_pval": p-value for over-representation of the term in the differentially expressed genes
+   - "Category": GO category
+   - "over_rep_pval": p-value for over-representation of the term in the differentially expressed genes
    - "under_rep_pval": p-value for under-representation of the term in the differentially expressed genes
    - "numDEInCat": number of differentially expressed genes in this category
    - "numInCat": number of genes in this category term: detail of the term
@@ -46,7 +46,7 @@ A graph with the top 10 over-represented GO terms.The x-axis is the percentage o
 
  ## 2.KEGG Pathway Analysis
 
-```goseq``` was also used to identify KEGG pathways for our analysis. The KEGG pathway database is a collection of pathway maps representing the current knowledge on the molecular interaction, reaction and relation networks.for our KEGG analysis 2 files were generated
+```goseq``` was also used to identify KEGG pathways for our analysis. The KEGG pathway database is a collection of pathway maps representing the current knowledge on the molecular interaction, reaction and relation networks.for our KEGG analysis two(2) files were generated
 
 inputs include
 
@@ -66,20 +66,18 @@ Results:
 <h2> TEAM CONTRIBUTORS </h2>
 <table>
   <tr>
-    <td>GO analysis
-    </td>
-    <td>Amira,TosinA,ShurutiG, Bandana, Johny
-   </td>
+    <td>GO analysis</td>
+    <td>Amira,TosinA,ShurutiG, Bandana, Johny</td> 
+  </tr>
    <tr>
-    <td>KEGG pathway Analysis
-    </td>
-   <td>Amira, Rana, TosinA, Chigozie
-   </td>
+    <td>KEGG pathway Analysis</td>
+   <td>Amira, Rana, TosinA, Chigozie</td>
    </tr>
      <tr>
-    <td>Documentation and creation of ReadMe file
-    </td>
-    <td>TosinA
+    <td>Documentation and creation of ReadMe file</td>
+    <td>TosinA</td> 
+     </tr>
+</table>
 
 
 
