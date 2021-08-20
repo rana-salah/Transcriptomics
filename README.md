@@ -111,6 +111,7 @@ Drosophila_melanogaster.BDGP6.87.gtf was our reference genome and was retrieved 
 These duplicate reads can come from over amplification (PCR in dependent library preparations – like with short read sequencing like illumina) or from highly-expressed genes (which is usually kept in RNA-Seq differential expression analysis).
   
 ```MarkDuplicates``` (on outputs of ```RNA STAR```): To check for duplicate reads
+  
 ```MultiQC```: To aggregate results from both samples
 
   
