@@ -55,7 +55,7 @@ Pasilla gene 🧬 encodes a set of proteins that are most similar to those found
    
       
 </p>
-Finally, after finishing our analysis, our team decided to start an initiative to help all the members in learning from each other and in developing the biggest set of skills during this stage! Hence, we organized a training on Friday, where we had a workshop for each step in the workflow. The highly passionate members who volunteered to give the workshops are highlighted in the contributions list. In this workshop, the moderators explained the purpose of doing each step in the tutorial and how it can be benefitial for the analysis beside highlighting some improvement points. Also, they did the anlysis process practically to help the other members follow their steps. At the end, there was a troubleshooting and a Q&A session. 
+Finally, after finishing our analysis 🎉🎉, our team decided to start an initiative to help all the members in learning from each other and in developing the biggest set of skills 🧰during this stage! Hence, we organized a training on Friday, where we had a workshop for each step in the workflow. The highly passionate members 👨‍🔬 👩‍🔬 who volunteered to give the workshops are highlighted in the contributions list. In this workshop, the moderators explained the purpose of doing each step in the tutorial and how it can be benefitial for the analysis :bookmark: beside highlighting some improvement points. Also, they did the anlysis process practically to help the other members follow their steps. At the end, there was a troubleshooting and a Q&A session. 
 
 
 Getting to the end of our work, are you excited to meet our team members?!! 😍🥳🥳
