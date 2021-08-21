@@ -19,18 +19,18 @@ Enjoy!🌟
 
 Pasilla gene 🧬 encodes a set of proteins that are most similar to those found in humans Nova-1 and Nova-2 are the names of two satellites. Nova-1 and Nova-2 are nuclear RNA-binding proteins that are normally expressed in the CNS and regulate splicing directly.There are numerous applications for RNA sequencing data with a reference genome, and there is no optimal pipeline for all cases. We will go over all  the major steps in Reference based RNA-seq data analysis 💻, such as quality control (FastQC, MutiQC, Cutadapt), reads alignment (RNA STAR, IGV), gene and transcript quantification (HT-Seq count), differential gene expression (DEseq2), functional profiling (goseq) and advanced analysis. Using this [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#introduction), we were able to do differnetial  gene expression analysis besides identifying the genes and pathways regulated by the Pasilla gene as they were  affected by its depletion. To know more about our adventures 🤯 with the analysis process, don'y hesitate to check the following hyperlinks 🔥🔗. You will explore a lot about the field of transcriptomics in the next minutes 👀 
 
-*Check out our workflow in galaxy, click on the links below:*
-
-**[Quality_Control](https://usegalaxy.org/u/jasbio/h/analysis)** |  **[Mapping](https://usegalaxy.org/u/yasmien/h/rna-seq-tutorial)** | **[Analysis_Visualisation_Functional Enrichment](https://usegalaxy.eu/u/utkarsha/h/deseq2)**
-
 ## <p align = "center"> 📌 Our Workflow 📝  </p>
 <h3 align="center">
 <img src= "https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png" width="800" height="600">
 </h3>
 
+*To Check out the results of our workflow in galaxy, click on the links below:*
+
+**[Quality_Control](https://usegalaxy.org/u/jasbio/h/analysis)** |  **[Mapping](https://usegalaxy.org/u/yasmien/h/rna-seq-tutorial)** | **[Analysis_Visualisation_Functional Enrichment](https://usegalaxy.eu/u/utkarsha/h/deseq2)**
+
 <h1 align="center"> 📃 Datasets and Results 📈 </h1>
 
-*Click on each image to know the detailed procedure to conduct the analysis*
+***Click on each image to know the detailed procedure to conduct the analysis***
 <p align="center">
        <a href = "https://docs.google.com/document/d/1d4vWIoz1llimFA5zCjPaglrZrBX8Co6gbt9WcvK6l1Y/edit">
           <kbd> <img src="https://user-images.githubusercontent.com/88287648/130311901-89251a88-70b5-4004-b3b5-22f2cc77677f.png" width = "300" height ="250"> </kbd>
