@@ -39,11 +39,8 @@ Enjoy!🌟
 </p>
 <h3 align="center">
 <img src = "https://user-images.githubusercontent.com/67822771/130310781-f2c6ecf2-4c51-4b6e-a22a-5d79a28d83fb.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200">
-  
-<img src = "https://user-images.githubusercontent.com/67822771/130310808-8c67a1f0-46b1-4568-b594-425a95cc789c.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310818-c91bf2f0-921b-4833-9caf-1b68774e901c.gif" width = "500" heigth = "200">
-  
-<img src = "https://user-images.githubusercontent.com/67822771/130310932-50ac9646-1804-4f84-bc31-67ef491a34e9.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310947-8ffca48e-e53a-4468-a21e-00555b7f0e60.gif" width = "500" heigth = "200">
-  
+<img src = "https://user-images.githubusercontent.com/67822771/130310808-8c67a1f0-46b1-4568-b594-425a95cc789c.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310818-c91bf2f0-921b-4833-9caf-1b68774e901c.gif" width = "500" heigth = "200"> 
+<img src = "https://user-images.githubusercontent.com/67822771/130310932-50ac9646-1804-4f84-bc31-67ef491a34e9.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310947-8ffca48e-e53a-4468-a21e-00555b7f0e60.gif" width = "500" heigth = "200"> 
 <img src = "https://user-images.githubusercontent.com/67822771/130310849-6063c2f9-41f1-457b-8d3d-493ed4b6cf9e.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310853-84e38542-67a1-454c-aa46-e0938a805edc.gif" width = "500" heigth = "200">
 
 <img src = "https://user-images.githubusercontent.com/67822771/130310984-3475d21c-a5e0-4159-b9e3-ed33187b7b19.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310873-56dd33b9-8cfe-4259-8885-9a2d17705065.gif" width = "500" heigth = "200">
