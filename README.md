@@ -34,7 +34,10 @@ Enjoy!🌟
 <img src= "https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png" width="800" height="600">
 </h3>
 
-<img src = ![RANA](https://user-images.githubusercontent.com/67822771/130310781-f2c6ecf2-4c51-4b6e-a22a-5d79a28d83fb.gif) width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200">
+</p>
+<h3 align="center">
+<img src = "https://user-images.githubusercontent.com/67822771/130310781-f2c6ecf2-4c51-4b6e-a22a-5d79a28d83fb.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200">
+</h3>
 
 </p>
 <h3 align="center">
