@@ -37,8 +37,24 @@ Enjoy!🌟
 </p>
 <h3 align="center">
 <img src = "https://user-images.githubusercontent.com/67822771/130310781-f2c6ecf2-4c51-4b6e-a22a-5d79a28d83fb.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200">
-</h3>
+  
+<img src = "https://user-images.githubusercontent.com/67822771/130310808-8c67a1f0-46b1-4568-b594-425a95cc789c.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310818-c91bf2f0-921b-4833-9caf-1b68774e901c.gif" width = "500" heigth = "200">
 
+<img src = "https://user-images.githubusercontent.com/67822771/130310932-50ac9646-1804-4f84-bc31-67ef491a34e9.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310947-8ffca48e-e53a-4468-a21e-00555b7f0e60.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130310849-6063c2f9-41f1-457b-8d3d-493ed4b6cf9e.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310853-84e38542-67a1-454c-aa46-e0938a805edc.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130310984-3475d21c-a5e0-4159-b9e3-ed33187b7b19.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310873-56dd33b9-8cfe-4259-8885-9a2d17705065.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130310998-5d2766d6-99e5-4ee3-b932-08bae863cdf7.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311001-7f77b193-6563-4d0e-bff5-c9ab9b3ccbeb.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130311010-f7e06905-edab-438b-bde8-9e6f38ebb90d.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311013-f555b172-9544-4ae5-85f5-0ad136e03d3a.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130311057-503fa8b2-92c1-4380-8988-e9c4466a3c56.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311063-0b93298c-37f4-4145-9b2e-9ca3805526e1.gif" width = "500" heigth = "200">
+
+<img src = "https://user-images.githubusercontent.com/67822771/130311067-04a6646b-4679-47e5-972d-d92c619c7243.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311072-0c625935-4523-4585-8b10-f5f509e96292.gif" width = "500" heigth = "200">
+  
+</h3>
 </p>
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/67822771/130306138-7466de07-42dc-479e-a41c-b9eadd588a15.gif" width="600" height="200">
