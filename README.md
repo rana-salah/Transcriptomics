@@ -38,7 +38,7 @@ Enjoy!🌟
 
 </p>
 <h3 align="center">
-<img src="https://user-images.githubusercontent.com/67822771/130306138-7466de07-42dc-479e-a41c-b9eadd588a15.gif" width="700" height="300">
+<img src="https://user-images.githubusercontent.com/67822771/130306138-7466de07-42dc-479e-a41c-b9eadd588a15.gif" width="600" height="200">
 </h3>
               
  <img src="https://user-images.githubusercontent.com/88287648/130271117-93d080a4-2474-470e-806d-ef04e04721ae.gif" width="1000" height="300">
