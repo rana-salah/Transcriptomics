@@ -19,6 +19,9 @@ Enjoy!🌟
 
 Pasilla gene 🧬 encodes a set of proteins that are most similar to those found in humans Nova-1 and Nova-2 are the names of two satellites. Nova-1 and Nova-2 are nuclear RNA-binding proteins that are normally expressed in the CNS and regulate splicing directly.There are numerous applications for RNA sequencing data with a reference genome, and there is no optimal pipeline for all cases. We will go over all  the major steps in Reference based RNA-seq data analysis 💻, such as quality control (FastQC, MutiQC, Cutadapt), reads alignment (RNA STAR, IGV), gene and transcript quantification (HT-Seq count), differential gene expression (DEseq2), functional profiling (goseq) and advanced analysis. Using this [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#introduction), we were able to do differnetial  gene expression analysis besides identifying the genes and pathways regulated by the Pasilla gene as they were  affected by its depletion. To know more about our adventures 🤯 with the analysis process, don'y hesitate to check the following hyperlinks 🔥🔗. You will explore a lot about the field of transcriptomics in the next minutes 👀 
 
+*Check out our workflow in galaxy, click on the links below:*
+
+**[Quality_Control](https://usegalaxy.org/u/jasbio/h/analysis)** |  **[Mapping](https://usegalaxy.org/u/yasmien/h/rna-seq-tutorial)** | **[Analysis_Visualisation_Functional Enrichment](https://usegalaxy.eu/u/utkarsha/h/deseq2)**
 
 ## <p align = "center"> 📌 Our Workflow 📝  </p>
 <h3 align="center">
