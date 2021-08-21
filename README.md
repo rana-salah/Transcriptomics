@@ -117,16 +117,3 @@ Another statistical measure is to calculate the z score and represent expression
 
 </h3>
 The Z-score ranges from -3 standard deviations up to +3 standard deviations. When a gene is differentially expressed between two groups (here treated and untreated), the Z-scores for this gene will be (mostly) positive for the samples in one group and (mostly) negative for the samples in the other group. 
-<h1>
- Team Contributors
- </h1>
-   
-  
-  
-  Steps | Names
------------- | ------------- 
-Identification of the differentially expressed features | Utkarsha, Osama, Johny, Nikita, Rana, Yasmeen | 
-Extraction and annotation of differentially expressed genes | Rana, Jaspreet, Chigozie, Pankaj, Osama, Nikita|
-Visualization of the normalized counts  | Utkarsha, Dawoud, Tosin, Ankita, Rana | 
-Computation and visualization of the Z-score | Amira, Saket, Rana, Tosin, diyar | 
-Markdown Documentation | Utkarsha, Osama, Jaspreet | 
