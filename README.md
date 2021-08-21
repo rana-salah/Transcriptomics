@@ -47,6 +47,9 @@ Enjoy!🌟
 <img src = "https://user-images.githubusercontent.com/67822771/130311010-f7e06905-edab-438b-bde8-9e6f38ebb90d.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311013-f555b172-9544-4ae5-85f5-0ad136e03d3a.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130311057-503fa8b2-92c1-4380-8988-e9c4466a3c56.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311063-0b93298c-37f4-4145-9b2e-9ca3805526e1.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130311067-04a6646b-4679-47e5-972d-d92c619c7243.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311072-0c625935-4523-4585-8b10-f5f509e96292.gif" width = "500" heigth = "200">
+  
+## <p align = "center"> 👩‍💻 Contributions 👨‍💻 </p>
+
 </h3>
 </p>
 <h3 align="center">
