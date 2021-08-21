@@ -28,23 +28,23 @@ Enjoy!🌟
 
 *Click on each image to know the detailed procedure to conduct the analysis*
 <p align="center">
-  <a href = "https://docs.google.com/document/d/1d4vWIoz1llimFA5zCjPaglrZrBX8Co6gbt9WcvK6l1Y/edit"
-     <kbd> <img src="https://user-images.githubusercontent.com/88287648/130311901-89251a88-70b5-4004-b3b5-22f2cc77677f.png" width = "300" height ="250"> </kbd>
+       <a href = "https://docs.google.com/document/d/1d4vWIoz1llimFA5zCjPaglrZrBX8Co6gbt9WcvK6l1Y/edit">
+          <kbd> <img src="https://user-images.githubusercontent.com/88287648/130311901-89251a88-70b5-4004-b3b5-22f2cc77677f.png" width = "300" height ="250"> </kbd>
      </a>
-        <br>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/Quality_Control">
-      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130312466-84240cfc-07af-4aea-ab5c-9caf782d7cc9.png" width = "500" height = "200"> </kbd>
- </a>
+      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313730-7a244afd-4687-4d04-ab7f-9e7e5d034967.png" width = "300" height = "250"> </kbd>
+    </a>
     <br>
   
   <a href="https://github.com/rana-salah/Transcriptomics/tree/Mapping">
     <kbd> <img src="https://user-images.githubusercontent.com/88287648/130312527-3edcaba1-29d6-4dab-b8b2-2b8502befd68.png" width = "300" height = "250"> </kbd>
  </a>
   <br>
-  
+  <a href="https://github.com/rana-salah/Transcriptomics/tree/DE-analysis">
+      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313813-34db9ff0-18e4-4f0e-a27e-0a5e1c62b222.png" width = "300" height ="250"> </kbd>
+  </a>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/visualization">
-      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130312993-16bd8d17-7c7b-4280-b81b-9ca45aa8a689.png" width = "500" height ="500"> </kbd>
-    
+      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313843-8e79cbd8-9fe3-4940-99d2-784931f5fd3b.png" width = "300" height ="250"> </kbd>
   </a>
     <br>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/Functional-Analysis-(GO-and-KEGG)">
