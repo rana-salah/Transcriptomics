@@ -51,13 +51,37 @@ Enjoy!🌟
 ## <p align = "center"> 👩‍💻 Contributions 👨‍💻 </p>
 
 
-| Workflow Sub-groups | Specific Task | Contributors |
-| :-----------------: | :-----------: | :----------: |
-| | Python | Name
-|  | R | Name|
-| | Python | Name |
-|  | R | Name|
-| | Java | Name|
+| Team Sub-groups | Specific Task | Contributors  | Slack IDs |
+| :-------------: | :-----------: | :------------:| :-------: |
+| Quality Control | Sub-samples   | Yasmeen & Eman | @Sam & @Eman|
+| Quality Control | Full datasets | Bandana & Jaspreet| @Bandana & @Jaspreet|
+| Quality Control | Markdown Documnetation | Jaspreet, Bandana, Eman| @Eman, @Bandana & @Jaspreet |
+|     Mapping     | Inspection of Mapping Results | Yasmeen, Bandana, Dawoud, Nirvana | @Sam, @Bandana, @Dawoud, @Nirvana |
+|     Mapping     | Counting the number of reads per annotated gene | Yasmeen, Saket, Johny | @Sam, @Saket, @Johny |
+|     Mapping     | Estimation of strandness | Eman, Saket, Johny | @Saket, @Johny, @Eman|
+|     Mapping     | Counting reads per genes | Ankita, Favour, Nirvana | @Anku., @Nirvana, @OYEFAVOUR |
+|     Mapping     | Markdown Documentation | Eman, Yasmeen, Dawoud, Johny| @Sam & @Eman, @Dawoud, @Johny |
+| Differential Gene Expression Analysis | Identification of the differentially expressed features | Rana, Utkarsha, Osama, Nikita, Chigozie, Yasmeen, Johny, Shruti| @RanaSalah, @-Utkarsha12-, @Osama, @Nikita2Chimera, @GozieNkwocha, @Sam, @Johny, @ShrutiG |
+| Differential Gene Expression Analysis | Extraction of annotation of differentially expressed genes | Utkarsha, Osama, Rana, Jaspreet, Nikita, Chigozie | @RanaSalah, @-Utkarsha12-, @Osama, @Nikita2Chimera, @GozieNkwocha, @Jaspreet|
+| Differential Gene Expression Analysis | Markdown Documentation | Rana| @RanaSalah |
+| Visualization of the DE genes' expression | Visualization of the normalized counts | Osama, Utkarsha, Rana, Ankita, TosinA, Dawoud | @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @Dawoud|
+| Visualization of the DE genes' expression | Computation & Visualization of the Z-score | Saket, Utkarsha, Osama, Rana, Ankita, TosinA, Diyar |@Saket, @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @diyar |
+| Visualization of the DE genes' expression | Markdown Documentation | Osama, Jaspreet, Utkarsha| @Osama, @Jaspreet, @-Utkarsha12-|
+| Functional enrichment analysis of the DE genes | Gene Ontology analysis | Amira, TosinA, Bandana, Johny, Shruti|@Amira, @TosinA, @Bandana, @Johny, @ShrutiG |
+| Functional enrichment analysis of the DE genes | KEGG pathways analysis | Amira, TosinA, Chigozie, Rana| @Amira, @TosinA, @GozieNkwocha, @RanaSalah |
+| ReadMe Development | Format & Organization   | Main ReadMe: Utkarsha, Osama, Rana, Ankita, TosinA, Bandana
+  Quality control: Jaspreet
+  Mapping: Saket, Yasmeen, Johny, Dawoud
+  Differential Gene Expression Analysis: Rana
+  Visualization: Osama, Jaspreet, Utkarsha
+  Functional Enrichment Analysis: TosinA | @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @Bandana, @Jaspreet, @Sam, @Saket, @Johny, @Dawoud |
+| Graphical Abstracts Design |   | Rana, Osama, Jaspreet, Ankita, Diyar | @RanaSalah, @Osama, @Jaspreet, @Anku., @diyar|
+| Advertisement |  Writing post on transfer-market | Tosin | @TosinA|
+| Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet
+  Mapping: Saket, Yasmeen
+  Differential Gene Expression Analysis: Rana & Osama
+  Visualization: Osama
+  Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
 
 
 </h3>
