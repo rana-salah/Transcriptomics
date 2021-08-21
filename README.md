@@ -69,8 +69,8 @@ Enjoy!🌟
 | Visualization of the DE genes' expression | Markdown Documentation | Osama, Jaspreet, Utkarsha| @Osama, @Jaspreet, @-Utkarsha12-|
 | Functional enrichment analysis of the DE genes | Gene Ontology analysis | Amira, TosinA, Bandana, Johny, Shruti|@Amira, @TosinA, @Bandana, @Johny, @ShrutiG |
 | Functional enrichment analysis of the DE genes | KEGG pathways analysis | Amira, TosinA, Chigozie, Rana| @Amira, @TosinA, @GozieNkwocha, @RanaSalah |
-| ReadMe Development | Format & Organization   | Main ReadMe: Utkarsha, Osama, Rana, Ankita, TosinA, Bandana. Quality control: Jaspreet. Mapping: Saket, Yasmeen, Johny, Dawoud. Differential Gene Expression Analysis: Rana. Visualization: Osama, Jaspreet, Utkarsha. Functional Enrichment Analysis: TosinA | @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @Bandana, @Jaspreet, @Sam, @Saket, @Johny, @Dawoud |
-| Graphical Abstracts Design |   | Rana, Osama, Jaspreet, Ankita, Diyar | @RanaSalah, @Osama, @Jaspreet, @Anku., @diyar|
+| GitHUb Markdown Development | Format & Organization   | Main ReadMe: Utkarsha, Osama, Rana, Ankita, TosinA, Bandana. Quality control: Jaspreet. Mapping: Saket, Yasmeen, Johny, Dawoud. Differential Gene Expression Analysis: Rana. Visualization: Osama, Jaspreet, Utkarsha. Functional Enrichment Analysis: TosinA | @RanaSalah, @-Utkarsha12-, @Osama, @Anku., @TosinA, @Bandana, @Jaspreet, @Sam, @Saket, @Johny, @Dawoud |
+| Graphical Abstract Design |   | Rana, Osama, Jaspreet, Ankita, Diyar | @RanaSalah, @Osama, @Jaspreet, @Anku., @diyar|
 | Advertisement |  Writing post on transfer-market | Tosin | @TosinA|
 | Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet. Mapping: Saket, Yasmeen. Differential Gene Expression Analysis: Rana & Osama. Visualization: Osama. Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
 
