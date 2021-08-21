@@ -20,12 +20,12 @@ Enjoy!🌟
 Pasilla gene 🧬 encodes a set of proteins that are most similar to those found in humans Nova-1 and Nova-2 are the names of two satellites. Nova-1 and Nova-2 are nuclear RNA-binding proteins that are normally expressed in the CNS and regulate splicing directly.There are numerous applications for RNA sequencing data with a reference genome, and there is no optimal pipeline for all cases. We will go over all  the major steps in Reference based RNA-seq data analysis 💻, such as quality control (FastQC, MutiQC, Cutadapt), reads alignment (RNA STAR, IGV), gene and transcript quantification (HT-Seq count), differential gene expression (DEseq2), functional profiling (goseq) and advanced analysis. Using this [tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#introduction), we were able to do differnetial  gene expression analysis besides identifying the genes and pathways regulated by the Pasilla gene as they were  affected by its depletion. To know more about our adventures 🤯 with the analysis process, don'y hesitate to check the following hyperlinks 🔥🔗. You will explore a lot about the field of transcriptomics in the next minutes 👀 
 
 
-## <p align = "center"> Our Workflow </p>
+## <p align = "center"> 📌 Our Workflow 📝  </p>
 <h3 align="center">
 <img src= "https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png" width="800" height="600">
 </h3>
 
-<h1 align="center"> Datasets and Results: </h1>
+<h1 align="center"> 📃 Datasets and Results 📈 </h1>
 
 *Click on each image to know the detailed procedure to conduct the analysis*
 <p align="center">
@@ -58,7 +58,7 @@ Pasilla gene 🧬 encodes a set of proteins that are most similar to those found
 
 
 
-## <p align = "center"> 👩‍🔬 Team Members 👨‍🔬 </p>
+# <p align = "center"> 👩‍🔬 Team Members 👨‍🔬 </p>
 
 </p>
 <h3 align="center">
@@ -99,7 +99,7 @@ Pasilla gene 🧬 encodes a set of proteins that are most similar to those found
 | Advertisement |  Writing post on transfer-market | Tosin | @TosinA|
 | Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet. Mapping: Saket, Yasmeen. Differential Gene Expression Analysis: Rana & Osama. Visualization: Osama. Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
   
-## <p align = "center"> References </p>
+# <p align = "center"> References </p>
 
 Trapnell, C., L. Pachter, and S. L. Salzberg, 2009 TopHat: discovering splice junctions with RNA-Seq. Bioinformatics 25: 1105–1111. https://academic.oup.com/bioinformatics/article/25/9/1105/203994
   
