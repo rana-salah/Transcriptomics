@@ -66,6 +66,7 @@ Enjoy!🌟
 <img src = "https://user-images.githubusercontent.com/67822771/130310932-50ac9646-1804-4f84-bc31-67ef491a34e9.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310947-8ffca48e-e53a-4468-a21e-00555b7f0e60.gif" width = "500" heigth = "200"> 
 <img src = "https://user-images.githubusercontent.com/67822771/130310849-6063c2f9-41f1-457b-8d3d-493ed4b6cf9e.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310853-84e38542-67a1-454c-aa46-e0938a805edc.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130310984-3475d21c-a5e0-4159-b9e3-ed33187b7b19.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130310873-56dd33b9-8cfe-4259-8885-9a2d17705065.gif" width = "500" heigth = "200">
+<img src = "https://user-images.githubusercontent.com/67822771/130313891-6a1a2c0c-d458-4f32-89d9-de7bebf63e0d.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130313898-e940148e-df40-4465-9ed1-cf28c3874e80.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130310998-5d2766d6-99e5-4ee3-b932-08bae863cdf7.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311001-7f77b193-6563-4d0e-bff5-c9ab9b3ccbeb.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130311010-f7e06905-edab-438b-bde8-9e6f38ebb90d.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311013-f555b172-9544-4ae5-85f5-0ad136e03d3a.gif" width = "500" heigth = "200">
 <img src = "https://user-images.githubusercontent.com/67822771/130311057-503fa8b2-92c1-4380-8988-e9c4466a3c56.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/67822771/130311063-0b93298c-37f4-4145-9b2e-9ca3805526e1.gif" width = "500" heigth = "200">
@@ -96,6 +97,44 @@ Enjoy!🌟
 | Graphical Abstract Design |   | Rana, Osama, Jaspreet, Ankita, Diyar | @RanaSalah, @Osama, @Jaspreet, @Anku., @diyar|
 | Advertisement |  Writing post on transfer-market | Tosin | @TosinA|
 | Training | Moderated the training workshops & presented the workflow steps practically | Quality control: Yasmeen & Jaspreet. Mapping: Saket, Yasmeen. Differential Gene Expression Analysis: Rana & Osama. Visualization: Osama. Functional Enrichment Analysis: Amira| @Sam & @Jaspreet, @Saket, @RanaSalah, @Osama, @Amira|
+  
+## <p align = "center"> References </p>
+
+Trapnell, C., L. Pachter, and S. L. Salzberg, 2009 TopHat: discovering splice junctions with RNA-Seq. Bioinformatics 25: 1105–1111. https://academic.oup.com/bioinformatics/article/25/9/1105/203994
+  
+Levin, J. Z., M. Yassour, X. Adiconis, C. Nusbaum, D. A. Thompson et al., 2010 Comprehensive comparative analysis of strand-specific RNA sequencing methods. Nature Methods 7: 709. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005310/
+  
+Young, M. D., M. J. Wakefield, G. K. Smyth, and A. Oshlack, 2010 Gene ontology analysis for RNA-seq: accounting for selection bias. Genome Biology 11: R14. https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-2-r14
+  
+Marcel, M., 2011 Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal 17: http://journal.embnet.org/index.php/embnetjournal/article/view/200
+  
+Brooks, A. N., L. Yang, M. O. Duff, K. D. Hansen, J. W. Park et al., 2011 Conservation of an RNA regulatory map between Drosophila and mammals. Genome Research 21: 193–202. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032923/
+  
+Robinson, J. T., H. Thorvaldsdóttir, W. Winckler, M. Guttman, E. S. Lander et al., 2011 Integrative genomics viewer. Nature Biotechnology 29: 24. https://www.nature.com/nbt/journal/v29/n1/abs/nbt.1754.html
+  
+Wang, L., S. Wang, and W. Li, 2012 RSeQC: quality control of RNA-seq experiments. Bioinformatics 28: 2184–2185. https://www.ncbi.nlm.nih.gov/pubmed/22743226
+  
+Dobin, A., C. A. Davis, F. Schlesinger, J. Drenkow, C. Zaleski et al., 2013 STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29: 15–21. https://academic.oup.com/bioinformatics/article/29/1/15/272537
+  
+Liao, Y., G. K. Smyth, and W. Shi, 2013 featureCounts: an efficient general purpose program for assigning sequence reads to genomic features. Bioinformatics 30: 923–930. https://academic.oup.com/bioinformatics/article/31/2/166/2366196
+  
+Kim, D., G. Pertea, C. Trapnell, H. Pimentel, R. Kelley et al., 2013 TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions. Genome Biology 14: R36. https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-4-r36
+  
+Luo, W., and C. Brouwer, 2013 Pathview: an R/Bioconductor package for pathway-based data integration and visualization. Bioinformatics 29: 1830–1831. https://academic.oup.com/bioinformatics/article-abstract/29/14/1830/232698
+  
+Love, M. I., W. Huber, and S. Anders, 2014 Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology 15: 550. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8
+  
+Kim, D., B. Langmead, and S. L. Salzberg, 2015 HISAT: a fast spliced aligner with low memory requirements. Nature Methods 12: 357. https://www.nature.com/articles/nmeth.3317
+  
+Anders, S., P. T. Pyl, and W. Huber, 2015 HTSeq—a Python framework to work with high-throughput sequencing data. Bioinformatics 31: 166–169. https://academic.oup.com/bioinformatics/article/31/2/166/2366196
+  
+Ewels, P., M. Magnusson, S. Lundin, and M. Käller, 2016 MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics 32: 3047–3048. https://academic.oup.com/bioinformatics/article/32/19/3047/2196507
+  
+Thurmond, J., J. L. Goodman, V. B. Strelets, H. Attrill, L. S. Gramates et al., 2018 FlyBase 2.0: the next generation. Nucleic Acids Research 47: D759–D765. https://academic.oup.com/nar/article-abstract/47/D1/D759/5144957
+  
+Kim, D., J. M. Paggi, C. Park, C. Bennett, and S. L. Salzberg, 2019 Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype. Nature Biotechnology 37: 907–915. https://www.nature.com/articles/s41587-019-0201-4
+  
+Used usegalaxy.org: "The sequencing data were uploaded to the Galaxy web platform, and we used the public server at usegalaxy.org to analyze the data ( Brooks et al. 2011)."
 
 </h3>
 </p>
