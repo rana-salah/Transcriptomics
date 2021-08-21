@@ -2,7 +2,8 @@
 ## Identification of the differentially expressed features
 After being able to obtain the files with the counts of the reads mapped to the Drosophila genes for each of the 7 samples, the next step is identifying the differential gene expression induced by the Pasilla gene depletion 👩‍💻👨‍💻 Here is our tips & tricks for getting this task done.
 
-**First**, you should upload your datasets to [Galaxy](https://usegalaxy.eu/). In our case, we uploaded the three treated and four untreated datasets as shown here. 
+**First**, you should upload your datasets to [Galaxy](https://usegalaxy.eu/). In our case, we uploaded the three treated and four untreated datasets as shown here.
+
 ![Input](https://user-images.githubusercontent.com/67822771/130218303-1ce10894-4925-4be2-b814-f380810c7c91.PNG)
 
 **Second**, we chose to use ```DESeq2 Software``` for the differential gene expression analysis of our RNA-seq data. The ```DESeq2 software``` has multiple benefitial usages as shown in the following figure. Before starting the analysis, the software combines the count files of the different samples into one table to apply normalization for sequencign depth, library composition and gene length. However, for our data, the gene length normalization is not required because we are comparing the counts for the same gene between differenet sample groups. 
@@ -28,6 +29,7 @@ Here, treatment is the primary factor that we are interested in.
 ![Factor 1](https://user-images.githubusercontent.com/67822771/130224885-8e8575c7-6568-444c-b7fe-1b22d89cac0e.PNG)
 
 The sequencing type is further information we know about the data that might contribute to differences in gene expression.
+
 ![factor 2](https://user-images.githubusercontent.com/67822771/130224904-f0e7c532-e506-4f4b-9447-6275dc5e8013.PNG)
 
 After executing this step, ```DESeq2``` generated 3 outputs.
