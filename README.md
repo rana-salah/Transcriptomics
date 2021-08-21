@@ -50,6 +50,16 @@ Enjoy!🌟
   
 ## <p align = "center"> 👩‍💻 Contributions 👨‍💻 </p>
 
+
+| Workflow Sub-groups | Specific Task | Contributors |
+| :-----------------: | :-----------: | :----------: |
+| | Python | Name
+|  | R | Name|
+| | Python | Name |
+|  | R | Name|
+| | Java | Name|
+
+
 </h3>
 </p>
 <h3 align="center">
