@@ -85,7 +85,7 @@ Getting to the end of our work, are you excited to meet our team members?!! 😍
 | Team Sub-groups | Specific Task | Contributors  | Slack IDs |
 | :-------------: | :-----------: | :------------:| :-------: |
 | Quality Control | Sub-samples   | Yasmeen & Eman | @Sam & @Eman|
-| Quality Control | Full datasets | Bandana & Jaspreet| @Bandana & @Jaspreet|
+| Quality Control | Full datasets | Bandana, Jaspreet, Pankaj| @Bandana, @Jaspreet, @Pankaj|
 | Quality Control | Markdown Documnetation | Jaspreet, Bandana, Eman| @Eman, @Bandana & @Jaspreet |
 |     Mapping     | Inspection of Mapping Results | Yasmeen, Bandana, Dawoud, Nirvana | @Sam, @Bandana, @Dawoud, @Nirvana |
 |     Mapping     | Counting the number of reads per annotated gene | Yasmeen, Saket, Johny | @Sam, @Saket, @Johny |
