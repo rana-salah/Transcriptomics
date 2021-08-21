@@ -37,9 +37,8 @@ Enjoy!🌟
 <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200"> <img src = "https://user-images.githubusercontent.com/88287648/130283020-9a0a12b4-f51e-4079-92c5-390b33ef3b8d.gif" width = "500" heigth = "200">
 
 
+               <img src="https://user-images.githubusercontent.com/67822771/130306138-7466de07-42dc-479e-a41c-b9eadd588a15.gif" width="700" height="300">
 
-![Thank-You-Gif](https://user-images.githubusercontent.com/67822771/130306138-7466de07-42dc-479e-a41c-b9eadd588a15.gif)
-
-
+              
  <img src="https://user-images.githubusercontent.com/88287648/130271117-93d080a4-2474-470e-806d-ef04e04721ae.gif" width="1000" height="300">
 
