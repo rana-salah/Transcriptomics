@@ -45,23 +45,23 @@ Pasilla gene 🧬 encodes a set of proteins that are most similar to those found
  </a>
   <br>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/DE-analysis">
-      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313813-34db9ff0-18e4-4f0e-a27e-0a5e1c62b222.png" width = "300" height ="250"> </kbd>
+      <kbd> <img src="https://user-images.githubusercontent.com/67822771/130317235-cf4491cf-b4d9-47f2-95ef-2cb1a0c86559.png" width = "300" height ="250"> </kbd>
   </a>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/visualization">
-      <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313843-8e79cbd8-9fe3-4940-99d2-784931f5fd3b.png" width = "300" height ="250"> </kbd>
+      <kbd> <img src="https://user-images.githubusercontent.com/67822771/130317248-ce75699a-15c1-4430-acc5-cde7ef500f91.png" width = "300" height ="250"> </kbd>
   </a>
     <br>
   <a href="https://github.com/rana-salah/Transcriptomics/tree/Functional-Analysis-(GO-and-KEGG)">
     <kbd> <img src="https://user-images.githubusercontent.com/88287648/130313044-a3d0d4c5-112a-4c39-a19b-f0a9fbfab2a0.png" width = "300" height ="250"> </kbd> 
 
   </a>
-   
-      
+
+
 </p>
 Finally, after finishing our analysis 🎉🎉, our team decided to start an initiative to help all the members in learning from each other and in developing the biggest set of skills 🧰during this stage! Hence, we organized a training on Friday, where we had a workshop for each step in the workflow. The highly passionate members 👨‍🔬 👩‍🔬 who volunteered to give the workshops are highlighted in the contributions list. In this workshop, the moderators explained the purpose of doing each step in the tutorial and how it can be benefitial for the analysis :bookmark: beside highlighting some improvement points. Also, they did the anlysis process practically to help the other members follow their steps. At the end, there was a troubleshooting and a Q&A session. 
 
 
-Getting to the end of our work, are you excited to meet our team members?!! 😍🥳🥳
+***Getting to the end of our work, are you excited to meet our team members?!!*** 😍🥳🥳
 
 
 # <p align = "center"> 👩‍🔬 Team Members 👨‍🔬 </p>
