@@ -24,13 +24,13 @@ Pasilla gene 🧬 encodes a set of proteins that are most similar to those found
 <img src= "https://user-images.githubusercontent.com/88304342/130128293-3c8839a6-48ae-4633-b6dc-162a6afd06e8.png" width="800" height="600">
 </h3>
 
-*To Check out the results of our workflow in galaxy, click on the links below:*
+*To check out the results of our workflow in galaxy, click on the links below:*
 
 **[Quality_Control](https://usegalaxy.org/u/jasbio/h/analysis)** |  **[Mapping](https://usegalaxy.org/u/yasmien/h/rna-seq-tutorial)** | **[Analysis_Visualisation_Functional Enrichment](https://usegalaxy.eu/u/utkarsha/h/deseq2)**
 
 <h1 align="center"> 📃 Datasets and Results 📈 </h1>
 
-***Click on each image to know the detailed procedure to conduct the analysis***
+***Click on each image to know the detailed procedure to conduct this analysis step***
 <p align="center">
        <a href = "https://docs.google.com/document/d/1d4vWIoz1llimFA5zCjPaglrZrBX8Co6gbt9WcvK6l1Y/edit">
           <kbd> <img src="https://user-images.githubusercontent.com/88287648/130311901-89251a88-70b5-4004-b3b5-22f2cc77677f.png" width = "300" height ="250"> </kbd>
