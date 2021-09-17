@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+Cutadapt	all_sections	GSM461180_2_fastqsanger	/galaxy-repl/main/jobdir/037/255/37255243/working/multiqc_WDir/cutadapt_0/Cutadapt on data 91 and data 90_ Report.txt
+Cutadapt	all_sections	GSM461177_2_fastqsanger	/galaxy-repl/main/jobdir/037/255/37255243/working/multiqc_WDir/cutadapt_0/Cutadapt on data 89 and data 88_ Report.txt.old
